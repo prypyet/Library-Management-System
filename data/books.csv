@@ -1,0 +1,1391 @@
+Book_ID,Title,Author,Category,Total_Copies
+8513,Storytelling with Data: A Data visulization guide for Business Professionals,Knaflic Cole,Data Science,3
+8894,Visulization Analysis & Design,Munzner Tamara,Data Science,2
+CB9092,System Simulation,Gordon Geoffrey,Computer Science,5
+CB7727,System Simulation with Digital Computer,Narsingh Deo,Computer Science,4
+CB7028,Operating System Principles,Silberschatz Abraham,Operating Systems,6
+CB7838,A Guide to Expert Systems,Waterman Donald F.,Artificial Intelligence,3
+GT192,An Approach to Communications Skills,Battacharya Indrajit,Communication Skills,4
+CB9128,Advanced Microprocessors and Peripherals,Bhurchandi K. Μ.,Microprocessors,5
+CB9125,Introduction to Microprocessors,Mathur Aditya P.,Microprocessors,4
+CB7717,Principles Of Compiler Design,Aho Alfred,Compiler Design,5
+CB7718,Modern Compiler Implementation in Java,Appel Andrew W.,Compiler Design,3
+2353,Software Engineering for Embedded Systems,Oshana Robert,Embedded Systems,2
+GT197,The Internet Book,Gomez Doughlas E.,Networking,4
+1164,An Introduction to Data Structures with Applications,Trembaly Manohar,Data Structures,5
+GT157,Operation Research,Raju N.V.S,Operations Research,3
+CB9118,Basic Simulation Lab With MATLAB,Bhanu Bhaskara,Simulation & MATLAB,4
+8868,Informatin Theory,Ash Robert B,Information Theory,2
+8934,Information Theory Interface and Learning Algorithms,Mackay David J.C,Information Theory,3
+CB7581,Intoductory Information Technology,BPB Editorial Board,Information Technology,5
+CB7269,Information Technology,Curtin Dennis,Information Technology,4
+1558,Multiple Choice Questions in Computer Science,Ela Kumar,Computer Science,6
+3691,Computer Fundamentals,Goel Anita,Computer Fundamentals,5
+CB7731,How to buy an IBM PC or Compatible Computer,Goodman Danny,Hardware,2
+CB7985,Your Home PC,Gopalakrishnan L,Hardware,3
+CB515,Comdex: Information Technology,Gupta Vikas,Information Technology,4
+CB7258,Comdex Information Course Kit,Gupta Vikas,Information Technology,4
+CB7564,Computing,Heathcote P. M.,Computer Science,3
+1616,Fundamentals of Computers,ITL Education Solutions. Ltd.,Computer Fundamentals,5
+CB7214,Introduction to Information Technology,ITL Education,Information Technology,4
+1618,Introduction to Information Technology,ITL Education Solutions. Ltd.,Information Technology,5
+1656,Introduction To Computer Science,ITL Education Solutions. Ltd.,Computer Science,6
+CB9356,Computer for Beginners,Jain V. K.,Computer Fundamentals,4
+GT216,Mobile Computing,Kamal Raj,Mobile Computing,3
+2340,A Course in Number Theory and Cryptography,Koblitz Neal,Cryptography,2
+1531,Basic Computer Engineering,Lakkadwala Prashant,Computer Engineering,4
+CB532,Fundamentals of Information technology,Leon Mathews,Information Technology,5
+CB7736,Computers,Long Larry,Computer Fundamentals,3
+CB7648,Computers In Your Future,Meyer Marilyn,Computer Science,4
+CB7500,Introductory Computer Science,Mukherji,Computer Science,3
+CB439,Introduction to Computers,Norton's Peter,Computer Fundamentals,6
+2346,R for Business Analytics,Ohri A.,Analytics,2
+9741,GATE: Topic-Wise Previous Year's Solved Question Papers: Computer Science & Information Technology,Pearsnon,Exam Prep,5
+CB7279,Peter Norton's Introduction to Computers,Peter Norton,Computer Fundamentals,4
+CB7778,Fundamentals of Computers,Rajaraman V.,Computer Fundamentals,6
+CB7267,Computer Fundamentals,Sinha Pradeep K.,Computer Fundamentals,5
+CB7936,Let's Learn Computers,Subhash Mehta,Computer Fundamentals,3
+1540,Basic Computer Engineering,Tiwari,Computer Engineering,4
+CB1348,Introduction to Information Technology,Turban Efraim,Information Technology,3
+CB7723,IT Workshop,Vamshi Krishna,Information Technology,4
+CB7737,Computer Course,Vishnu Priya Singh,Computer Fundamentals,3
+4435,Hadoop: The Definitive Guide,White Tom,Big Data,4
+CB808,Using Information Technology,Wiliams Brian K.,Information Technology,5
+CB7900,Applied Discrete Structures for Computer Science,Doerr Alan,Discrete Mathematics,3
+1812,Introduction to the Theory of Computation,Sipser Michael,Theory of Computation,5
+CB329,Theory of Computation,Sipser Michael,Theory of Computation,4
+618,Human-Computer Interaction,Dix Alan,Human-Computer Interaction,3
+CB7011,Get Certified & Get Ahead,Martinez Anne,Career Development,2
+CB7782,Successful Projects in Computing,Heathcote R. S. U.,Project Management,3
+GT188,Comdex: Computer Course Kit,Gupta Vikas,Computer Fundamentals,4
+1557,Gate 2018: Computer Science and Information Technology,GKP,Exam Prep,5
+1757,Computer System Design,Flynn Michael,Computer Architecture,3
+2339,Modern Optimization With R,Cortez Paulo,Optimization,2
+6728,High Performance Computing: Programming and Applications,Levesque John M.,High Performance Computing,3
+7134,Design Patterns Explained: A New Perspective on Object-Oriented Design,Shalloway Alan,Software Design,4
+1395,Embedded Systems,Barrett Steven,Embedded Systems,3
+7154,Embedded Systems Fundamentals with ARM Contex-M Based Microcontrollers,Dean Alaxander G.,Embedded Systems,3
+CB1718,Microcontrollers: Theory and Applications,Deshmukh Ajay V.,Microcontrollers,4
+CB1729,Microprocessors and Interfacing : Programming and Hardware,Hall Douglas V.,Microprocessors,5
+CB9134,Microcomputer Systems: The 8086/8088 Family Architecture Programming and Design,Liu Yu-Cheng & Gibson Glenn,Microprocessors,4
+200,AVR Microcontroller and Embedded Systems: Using Assembly and C,Mazidi Muhammad Ali,Microcontrollers,3
+1422,PIC Microcontroller & Embedded Systems,Muhmmad Ali Mazidi,Microcontrollers,3
+3972,Basic Concepts of Information Technology Workshop,Praveen Babu G.,Information Technology,4
+CB7519,Microcomputer Applications Workbook,Price Wilson T,Microcomputers,2
+CB2805,Embedded Systems,Rajkamal,Embedded Systems,5
+CB1705,Advanced Microprocessors and Peripherals: Architecture Programming and Interfacing,Ray A. K.,Microprocessors,4
+2124,A Pratical Introduction to Hardware/Software Codesign,Schaumont Patrick R.,Hardware/Software Co-Design,2
+3951,Advanced Microprocessors,Tabak Daniel,Microprocessors,3
+7048,Introduction to Embedded Systems - EE319K,Valvano Jonathan W.,Embedded Systems,3
+CB7722,How Computer Work,White Ron,Computer Architecture,4
+748,The Pentium Microprocessor,Antonakos James,Microprocessors,2
+3657,The 8086 Microprocessor: Programming & Interfacing the PC,Ayala Kenneth J.,Microprocessors,3
+CB2961,The 8051 Microcontroller,Ayala Kenneth J.,Microcontrollers,4
+176,The Intel Microprocessors: Architecture Programming and Interfacing,Brey Barry B.,Microprocessors,5
+7079,Migrating a Two-Tier Applications to Azure,De Tender Peter,Cloud Computing,2
+2232,Arm System-on- Chip Architecture,Furber Steve,Computer Architecture,3
+421,The 8051 Microcontroller,Mackenzie Scott,Microcontrollers,4
+3724,The 8051 Microcontroller and Embedded Systems: Using Assembling and C,Mazidi Muhammad Ali,Microcontrollers,5
+4648,8085 Microprocessor And Its Applications,Nagoor Kani A.,Microprocessors,4
+4649,Microprocessors and Microcontrollers,Nagoor Kani A.,Microprocessors,4
+1443,Microprocessors And Programmed Logic,Short Kenneth L.,Microprocessors,3
+390,The 8051 Microcontroller,Subrata Ghoshal,Microcontrollers,3
+217,The 8088 and 8086 Microprocessors,Triebel Walter A,Microprocessors,4
+418,Microcomputer Systems: 8086/8088 Family,Yu-Cheng Liu,Microprocessors,3
+CB7417,Computer Architecture and Logic Design,Bartee Thomas C.,Computer Architecture,4
+CB32,Computer Organization,Hamacher Carl,Computer Organization,5
+CB7714,Computer Architecture: A Quatitative Approach,Hennessay John L.,Computer Architecture,6
+CB7424,Advanced Computer Architecture: Parallelism Scalability Programmability,Hwang kai,Computer Architecture,4
+CB7419,Advanced Computer Architecture: A System Design App,Kain Richard Y.,Computer Architecture,3
+CB175,Computer Architecture and Organization,Murdocca Wiles,Computer Architecture,4
+1724,Make: Getting Started With Raspberry Pi,Richardson Matt,IoT & Hardware,3
+CB7656,CICS (Customer Information & Control System),Leon Alexis,Software Engineering,3
+9410,Java Coding Problems,Leonard Anghel,Programming Languages,3
+CB7606,Java The UML Way: Integrating Object-Oriented Design and Programming,Lervik Else,Programming Languages,2
+414,Fundamentals of Embedded Software with the ARM Cotex-M3,Lewis Danel W,Embedded Systems,3
+415,Fundamentals of Embedded Software with the ARM Cotex-M4,Lewis Danel W,Embedded Systems,3
+416,Fundamentals of Embedded Software with the ARM Cotex-M5,Lewis Danel W,Embedded Systems,2
+417,Fundamentals of Embedded Software with the ARM Cotex-M6,Lewis Danel W,Embedded Systems,2
+6322,Introduction to Programming Using Python,Liang Daniel. Y.,Programming Languages,5
+GT16,C++: An Introduction to Programming,Liberty Jesse,Programming Languages,4
+CB7477,Teach Your Self C++ in 21 Days,Liberty Jesse,Programming Languages,4
+8548,An Introduction to Formal Languages and Automata,Linz Peter,Theory of Computation,5
+1693,Expert C Programming: Deep C Secrets,Linden Peter Van Der,Programming Languages,3
+CB7492,C++ Primer,Lippman Stanley B.,Programming Languages,5
+8460,Neural Networks Jrojects with Python,Loy James,Machine Learning,3
+4443,Learning Python,Lutz Mark,Programming Languages,6
+4445,Programming Python,Lutz Mark,Programming Languages,5
+GT138,Programming In C++,Mahapatra,Programming Languages,3
+CB7514,Data Structures Using C++,Malik D. S,Data Structures,4
+CB7534,Programming in Java,Malhotra Sachin,Programming Languages,5
+CB7852,Java Script Essentials,Manger Jason J,Web Development,3
+1559,C programming,Mcgrath Mike,Programming Languages,4
+1562,Python in Easy Steps,Mcgrath Mike,Programming Languages,4
+6218,Python for Data Analysis: Data Wrangling with Pandas Numpy and Python,McKinney Wes,Data Science,5
+6152,Problem Solving with Algorithms and Data Structures Using Python,Miller Bradley N.,Algorithms,4
+1701,Computer Programming,Mittal Ajay,Programming Languages,3
+CB7470,Programming Interviews Exposed,Mongan John,Career Development,3
+CB7891,Java Servlets,Moss Karl,Web Development,3
+6099,Data Analytics using Python,Motwani Bharti,Data Analytics,4
+6547,Introduction to Machinne Learning with Python: A Guide for Data Scientists,Muller Adreas C.,Machine Learning,4
+7756,Core Python Programming,Nageswara Rao,Programming Languages,5
+CB7762,Java Beans Programming from the Ground Up,O'Neil Joseph,Programming Languages,3
+7312,Biginning Hibernate: for Hinerate 5,Ottinger Joseph B.,Web Development,2
+CB899,C Programming and Data Structures,Padmanabham P.,Data Structures,5
+CB7132,C And Data Structures,Padmanabham,Data Structures,4
+8906,Making Isometric Social Real-Time Games with HTML5 CSS3 and Javascript,Pagella mario Andres,Game Development,2
+CB7491,Debugging C++: Troubleshooting For Programmers,Pallas Chris H,Programming Languages,3
+435,Digital Logic and Computer Design,Mano Morris M.,Digital Logic,5
+436,Programming In MATLAB: A Problem Solving Approach,Patel Ram N.,Simulation & MATLAB,4
+1704,Programming In MATLAB,Patel Ram,Simulation & MATLAB,3
+6065,Architecture Patterns with Python,Percival Harry J. W.,Software Architecture,3
+CB7565,Visual Basic .Net Database Programming,Petroutsos Evangelos,Database Management,3
+CB7605,Instant Java,Pew John A.,Programming Languages,3
+CB7496,Image Processing in C,Phillips Dwayne,Image Processing,3
+6171,Python 3 Object-Oriented Programming,Phillips Dusty,Programming Languages,4
+6118,Machine Learning Using Python,Pradhan Manaranjan,Machine Learning,4
+CB7211,C Programming And Data Structures,Radha Krishna P,Data Structures,4
+1373,Microprocessors: Theory & Applications,Rafiquzzaman,Microprocessors,4
+1458,Microcontroller Theory and Application With The PIC18F,Rafiquzzaman M.,Microcontrollers,3
+9533,Basic Python Programming for Beginners,Rajkumar Varda K,Programming Languages,4
+6229,Fluent Python,Ramalho Luciano,Programming Languages,4
+9475,Phython Machine Learning,Raschka Sebastian,Machine Learning,5
+GT219,Advanced Java Programming,Roy Uttam K,Programming Languages,3
+CB481,Data Structures Algorithms and Application in C++,Sahni Sartaz,Data Structures,5
+CB7472,C Programming And Data Structures,Salaria R. S.,Data Structures,4
+CB285,Data Structures and Algorithms in C++,Sartaj Sahni,Data Structures,5
+CB7253,Problem Solving With C++,Savitch Walter,Programming Languages,4
+GT195,C++ Networks Programming: Vol I,Schmidt Doughlas C.,Networking,3
+GT196,C++ Networks Programming: Vol II,Schmidt Doughlas C.,Networking,3
+1604,Java Fundamentals,Schildt Herbert,Programming Languages,5
+6703,Java: The Complete Reference,Schildt Herbert,Programming Languages,6
+CB13,Java: The Complete Reference,Schildt Herbert,Programming Languages,5
+2934,Introduction to programming in Python: An Interdisciplinary Approach,Sedgewick Robert,Programming Languages,4
+6642,Head First Javascript Programming: A Brain Friendly Guide,Freeman Eric,Web Development,4
+6648,Head First Java,Sierra Kathy,Programming Languages,5
+8835,Head First Design Patterns: Building Extensible & Maintainable Object-Oriented Software,Freeman Eric,Software Design,5
+8842,Head First Java,Sierra Kathy,Programming Languages,4
+4848,Text Mining With R,Silge Julia,Data Analytics,3
+8760,Beginning Spring Boot 2,Siva Prasad Reddy K.,Web Development,3
+7289,Programming Computer Vision with Python,Solem Jan Erik,Computer Vision,3
+CB7471,C# The Nuts And Bolts,Sonal Mukhi,Programming Languages,3
+CB7808,C++ Premer Plus,Stephen Prata,Programming Languages,4
+CB7809,Teach Yourself C++,Schildt Herbert,Programming Languages,4
+GT210,The C++ Programming Language,Stroushtrup Bjarne,Programming Languages,6
+CB7961,Java look and Feel Design Guidelines,Sun Microsystems Inc.,UI/UX Design,2
+CB7601,Java and .NET: A developer's Guide to Interoprability and Migration,Surapaneni Narayana Rao,Software Engineering,3
+CB7495,Data Structures Using Pascal,Tanenbaum Aron M.,Data Structures,3
+CB7229,Data Structures Using C,Tenenbaum Aaron M.,Data Structures,5
+1611,Introduction to C Programming,Thareja Reema,Programming Languages,4
+7197,Pragramming in C,Thareja Reema,Programming Languages,4
+7319,Python Programming: Using Problems Solving Approach,Thareja Reema,Programming Languages,4
+7163,Programming in C,Thareja Reema,Programming Languages,4
+CB1370,The C Programming Answer Book,Tondo Clovis L.,Programming Languages,3
+CB7207,The C Answer Book,Tondo Clovis L.,Programming Languages,3
+7314,The C Answer Book,Tondo Clovis L.,Programming Languages,3
+9563,Practical Natural Language Processing: A comperhensive guide to Building Real-World,Vajjala Sowmaya,Natural Language Processing,3
+CB1280,Enterprise Java Beans,Valesky Tom,Web Development,3
+3153,An Introduction to Python,Van Rossum Guido,Programming Languages,5
+CB8029,Tricks of the Java Programming Gurus,Vanderburg Glenn,Programming Languages,2
+CB7252,Mastering C,Venugopal K R.,Programming Languages,4
+CB7639,Programming With Pascal,Venugopal K. R.,Programming Languages,3
+CB7837,Programming Techniques Through C,Venkatesh murthy M.G,Programming Languages,3
+CB8026,Java 2 Programming Bible,Walsh Aaron,Programming Languages,4
+CB7004,Programming Language Design Concepts,Watt. David A.,Programming Languages,3
+CB7499,Programming in the.NET Environment,Watkins. Damien,Software Engineering,3
+CB7493,Data Structures and Algorithm Analysis in C++,Weiss Mark Allen,Data Structures,4
+CB7218,Data Structures Through C,Yogesh Sacdeva,Data Structures,4
+CB8027,Internet For Dummies,Youngworth Paul,Networking,3
+CB1443,Software Testing Techniques,Beizer Boris,Software Testing,4
+CB7599,Beta Testing for Better Software,Fine. Michael R.,Software Testing,2
+CB7655,Testing Computer Software,Kaner Cem,Software Testing,4
+CB7993,Hacker Debugging Uncovered,Kaspersky Kris,Cybersecurity,3
+1732,Effective Method For Software Testing,Perry William,Software Testing,3
+CB9360,Software Testing Tools,Prasad K. V. K. K.,Software Testing,4
+CB7713,Java Programming with CORBA,Brose Gerald,Software Architecture,2
+CB7705,VBA for Dummies,Comdex,Programming Languages,3
+CB7431,Introduction to Algorithms,Cormen. Thomas H..,Algorithms,6
+9721,ARM Assembly Language with Hardware Experiements,Elahi Ata,Microprocessors,3
+CB7724,MCAD/MCSD: Visual Basic .Net XML Web Services and Server Components,Fanstill Pamela,Certification Prep,2
+CB7716,Visual C++ Programming Bible,Leinecker Richard C,Programming Languages,3
+CB7758,2956B: Core Foundations of Microsoft.Net 2.0 Development,Microsoft Corporation,Software Engineering,2
+CB7690,Programming Microsoft Windows with Microsoft Visual Basic.Net,Petzold Charles,Software Engineering,3
+CB7726,MCAD/MCSD: Visual Basic .Net Windows and Web Applications,Reisman Brian,Certification Prep,2
+CB7696,Active Desktop Programming using Windows 98,Walllace Nathan,Software Engineering,2
+CB7786,Visual Basic 6 from Scratch,Donald Robert P..,Programming Languages,3
+CB7850,Programming Applications for Microsoft Windows,Richter Jeffrey,Software Engineering,3
+1761,Beginning Android Programming with Android studio,DiMarzio J. F.,Mobile Development,4
+CB7981,Educator's Internet Companion,By the Staff of Classroom Connect,Networking,2
+CB7522,The CORBA Reference Guide,Pope Alan,Software Architecture,2
+1529,Parallel Algorithms,Casanova Henri,Algorithms,3
+CB7934,Moving to VB.NET: Strategies Concepts and Codes,Appleman Dan,Software Engineering,3
+CB7983,Sams Teach yourself Extreme Programming,Baird Stewart,Agile Methodology,3
+CB199,Web Programming: Building Internet Applications,Bates Chris,Web Development,4
+CB7658,Teach yourself Web Technologies Part-II,Bayross Ivan,Web Development,3
+CB7574,The Internet Book: Web & HTML,Comer Douglas E,Web Development,4
+CB7575,The Internet Book: Web & E-Commerce,Comer Douglas E,E-Commerce,3
+CB1051,Internet World Wide Web,Deitel and Deital,Web Development,5
+CB7704,Using ISAPI,Genusa Stephen,Web Development,2
+CB7781,ASP Programming,Gosney John W.,Web Development,3
+CB1217,Internet Programming,Jamsa Kris,Web Development,3
+CB7747,Migrating to .NET,Katre Dhananjay,Software Engineering,2
+3805,Beginning Android 4 Application Development,Lee Wei-Meng,Mobile Development,4
+CB1205,COM and CORBA Side by Side: Architectures Strategies and Implementations,Pritchard Jason,Software Architecture,3
+CB7532,Programming Web Server Applications,Richardson Eric C.,Web Development,3
+CB7734,Zope 3: Developers Handbook,Richter Stephan,Web Development,2
+CB7616,The Complete Website Upgrade & Maintenance Guide,Schmeiser Lisa,Web Development,3
+CB7739,Bea Weblogic Server Bible,Zuffoletto Joe,Web Development,2
+8639,Node. JS. MongoDB and Angular Web Development,Dayler Brad,Web Development,4
+4684,An Introduction to Network Programming With Java,Graba Jan,Networking,3
+CB7914,Java Sever Pages in Easy Steps,Mcgrath Mike,Web Development,3
+6248,Learning PHP MySQL & JAVA Script,Nixon Robin,Web Development,5
+CB7899,Client/Server Programming With JAVA and CORBA,Orfali Robert,Software Architecture,3
+2049,Web Technology: Theory And Practice,Srinivasan M.,Web Development,4
+6187,PHP and MySQL Web Development,Welling Lukes,Web Development,5
+7198,Spring in Practice,Wheeler Willie,Web Development,3
+1602,Javascript: The Complete reference,Powell Thomas,Web Development,4
+CB1457,Visual Studio .Net Programming,Parihar Mridrula,Software Engineering,3
+GT190,Unix Shell Programming,Kanethkar Yeshwant,Operating Systems,4
+CB7752,Mastering PC Software: Lotus 1-2-3 Wordstar and Dbase III Plus,Agarwal Ashok K.,Office Software,3
+7128,Dockers for Developmers,Bullington-McQuire Richard,DevOps,3
+6664,Kubernets A Complete Devops Cookbook,Karsliogulu Murat,DevOps,3
+CB7867,Component Software: Beyond Object Oriented Programming,Szyperski Clemens,Software Architecture,3
+6918,Agile & Interactivwe Development: A Manager's Guide,Larman Craig,Agile Methodology,4
+6394,Learning Open CV3,Kaehler Adrian,Computer Vision,3
+CB871,Working in Microsoft Office,Mansfield Ron,Office Software,4
+CB8033,Microsoft Office Access 2003: Application Development Using VBA SQL Server DPA &,Prague Cary N,Office Software,3
+CB7244,Working In Microsoft Office,Ron Mansfield,Office Software,4
+8503,Head Frist Servelets & JSP,Basham Bryan,Web Development,4
+8856,Spring and Hiberbate,Santhosh Kumar,Web Development,4
+CB7753,Mastering PC Software: Lotus 1-2-3 Wordstar and Dbase III Plus,Agarwal Ashok K.,Office Software,3
+CB7785,Windows 2000 Directory Services Design,Bruzzese Peter J.,Operating Systems,2
+CB7797,UNIX and Shell Programming,Das Sumitabha,Operating Systems,5
+CB7438,Operating Systems: A Concept-Based Approach,Dhamdhere Dhananjay M.,Operating Systems,4
+CB7435,Operating Systems: A Concept-Based Approach,Dhamdhere Dhananjay M.,Operating Systems,4
+CB7933,Microsoft Viso Version 2002,Eaton Nanette J,Office Software,2
+CB7833,Unix for Programmers and Users,Glass Graham,Operating Systems,4
+CB7709,Linux Programming Bible,Goerzen John,Operating Systems,3
+CB7711,Linux to go,Gtrace Rich,Operating Systems,2
+CB7699,LINUX: Network Administrator's Guide,Kirch Olaf,Operating Systems,3
+CB7708,Beginning Linux Programming,Mathew Neil,Operating Systems,4
+CB7710,Linux Database Bible,Peterovsky Michele,Operating Systems,3
+CB7798,Advanced UNIX- A Progrmmer's Guide,Prata Stephen,Operating Systems,4
+CB7793,UNIX: The Complete Reference,Rosen Kenneth,Operating Systems,4
+CB7454,A Practical Guide to Solaris,Sobell Mark G..,Operating Systems,3
+CB7896,Inside Windows NT,Solomon David A,Operating Systems,3
+CB7795,UNIX Network Programming,Stevens Richard W.,Operating Systems,5
+CB7707,Using LINUX,Tackett Jack,Operating Systems,3
+CB7473,Distributed Operating Systems,Tanenbaum Andrew,Operating Systems,4
+CB7489,Pc Software for Windows 98 Made Simple,Taxali R. K.,Operating Systems,3
+CB7790,Advanced Programmer's Guide to UNIX System V,Thomas Robecca,Operating Systems,3
+CB7763,Windows 2000 Administration In Nutshell,Tulloch Mitch,Operating Systems,2
+1714,Introduction To UNIX & Shell Programming,Venkatesh Murthy,Operating Systems,4
+CB7800,UNIX Shell Programmer's,Vickery Christopher,Operating Systems,3
+8937,Operating Systems: Three Easy Pieces,Arpaci-Dusseau Remzi H.,Operating Systems,4
+GT212,Systems Programming and Operating Systems,Dhamdhere DM,Operating Systems,4
+CB7846,Operating Systems,Godbole Achyut S,Operating Systems,4
+CB1478,Advanced Concepts in Operating Systems,Mukesh Singhal,Operating Systems,4
+6573,Beginning Devops with Docker: Automate the deployment of your environment with the power,Muli Joseph,DevOps,3
+CB7618,Operating Systems: Internals and Design Principles,Stallings William,Operating Systems,5
+219,Applied Operating System Concepts,Silberschatz Abraham Avi,Operating Systems,5
+1550,Operating System Concepts,Silberschatz Abraham,Operating Systems,6
+CB7620,Operating Systems,Sredharan S.,Operating Systems,3
+CB685,Operating Systems: Internals and Design Principles,Stallings William,Operating Systems,4
+CB198,Operating Systems: Internal Design Principles,Stallings William,Operating Systems,4
+687,Operating Systems: Internals And Design Principles,Stallings William,Operating Systems,5
+CB7466,Modern Operating Systems,Tanenbaum Andrew S.,Operating Systems,5
+CB7619,Modern Operating Systems,Tanenbaum Andrew,Operating Systems,4
+697,Modern Operating Systems,Tanenbaum Andrew,Operating Systems,5
+6851,The Design of the Unix Operation System,Bach Maurics J.,Operating Systems,4
+7060,The Design of the Unix Operation System,Bach Maurics J.,Operating Systems,4
+CB7388,Unix: Concepts and Applications,Das Sumitabha,Operating Systems,5
+CB7390,Unix and Shell Programming: A Text Book,Forouzan Behrouz,Operating Systems,4
+1600,Linux: The Complete Reference,Petersen Richard,Operating Systems,4
+6806,Mastering Embedded limux Programming,Simmonds Chris,Operating Systems,3
+1581,Unix: Concepts and Applications,Simithabha Das,Operating Systems,4
+CB7970,The Essential Guide to User Interface Design,Galitz Wilbert O.,UI/UX Design,3
+6556,Learn Grafana 7.0: A Beginner's Guide to getting well-versed with Analytics Interactive,Salituro Eric,Data Analytics,2
+CB7990,Data Management and File Structures,Loomis Wary E.S,Data Management,3
+CB7987,Using Samba,Ts Jay,Networking,2
+CB9238,Problems & Solutions of Network & Systems,Jairath A.K,Networking,3
+3701,Compiler Design in C,Holub Allen I.,Compiler Design,4
+CB421,Compilers: Principles Techniques and Tools,Aho Alfred V. & et al.,Compiler Design,6
+CB745,Principles of Compiler Design,Aho Alfred V.,Compiler Design,5
+543,Modern Compiler Implementation in C,Appel Andrew W.,Compiler Design,4
+CB1049,Introduction to Compiling Techniques,Bennett J. P.,Compiler Design,3
+1650,Crafting Complier C,Fischer Charles N.,Compiler Design,3
+6398,Lex & Yace,Levine John R.,Compiler Design,3
+2286,Advanced Compiler Design Implementation,Muchnick Steven S.,Compiler Design,4
+CB7925,Compilers: Construction & Design,Rajni Jindal,Compiler Design,3
+CB7754,Mastering PC Software: Lotus 1-2-3 Wordstar and Dbase III Plus,Agarwal Ashok K.,Office Software,3
+1629,Special Edition Using Microsoft office 2007,Bott Ed,Office Software,3
+GT120,Enrich your communicatino in English,Sujatha Mukiri,English Communication,4
+3010,Dictionary of Technical Terms,Crispin F. S.,Dictionaries,3
+CB8726,Learning English: A Communication Approach,Rama Krishna Rao A.,English Communication,4
+2985,English for Effective Communication,Sanjay Kumar,English Communication,5
+2910,Effective Technical Communication,Rizvi Ashraf M.,Technical Communication,5
+3397,Technical Communication,Chauhan Gajendra Singh,Technical Communication,4
+2994,Technical Communication: Principles and Practice,Raman Meenakshi,Technical Communication,5
+6711,Personality Development and Soft Skills,Mitra. Barun K.,Soft Skills,4
+2442,The ACE of Soft Skills,Ramsh Gopalswamy,Soft Skills,3
+GT215,Effective Technical Communication,Rizvi Ashraf M.,Technical Communication,4
+CB6981,Chambers 21st Dictionary,Mairi Robinson,Dictionaries,3
+CB6982,Chambers 21st Dictionary,Mairi Robinson,Dictionaries,3
+CB6980,Cambridge Advanced Learners Dictionary,Editorial Team,Dictionaries,4
+CB6983,Dictionary Of Contemporary English,Longman Della Summers,Dictionaries,4
+CB6977,Merriam-Websters Collegiate Dictionary,Merriam-Websters,Dictionaries,3
+CB7021,Oxford Advanced Learner's Dictionary,Wehmeier Sally,Dictionaries,5
+2089,Objective English for COMPtitive Examinations,Thorpe Edgar,English Communication,4
+6683,1100 Words You need to Know,Bromberg Murray,Vocabulary,3
+CB8687,Speaking English Effectively,Krishna Mohan,English Communication,4
+3627,English Grammar in Use: A Self Study Reference and,Murphy Raymond,English Grammar,6
+3438,Vocabulary Activities,Ur Penny,Vocabulary,3
+4574,Vocabulary Activities,Ur Penny,Vocabulary,3
+3470,The Official Cambridge Guide to IELTS: Students Bod,Cullen Pauline & Et.al.,Exam Prep,4
+3628,The Official Cambridge Guide to IELTS for Academic,Cullen Pauline & Et.al.,Exam Prep,4
+3456,Keep Talking: Communicative Fluency Activities for I,Klippel Friederike,English Communication,3
+CB6924,Speaking English Effectively,Krishna Mohan,English Communication,4
+2394,Speaking English Effectively,Krishna Mohan,English Communication,4
+2386,English Pronunciation in use Intermediate,Hancock Mark,Phonetics,3
+CB6959,Better English Pronunciation,O' Connor J. D.,Phonetics,4
+CB6975,The Chambers Dictionary,Chambers,Dictionaries,3
+CB6976,Telugu-English Dictionary,Shankarnarayana,Dictionaries,3
+CB6967,Basic Communication Skills For Technology,Rutherford Andrea J.,Technical Communication,4
+GT128,words often Confused,Kishore,Vocabulary,3
+9059,Hamlet,Shakespeare William,Literature,4
+9087,Malgudi Days,Naraya R.K,Literature,5
+8966,The White Tiger,Aravind Adiga,Literature,4
+8972,The Odyssey,Homer,Literature,4
+GT144,Akshara Satyamrutham,Bommina Venkataramana,Literature,2
+8978,My Journey Transforming Dreas into Actions,Abdul Kalam A. P. J.,Biography,5
+9066,Autobiography of An Unknown Indian,Chaudhuri Nirad C.,Biography,3
+8874,A History of Modern India,Banerjee-Dube Ishita,History,4
+9034,India's Struggle for Independence,Chandra Bipin,History,5
+8998,History of Modren India,Chandra Bipin,History,5
+CB6915,Developing Communication Skills,Krishna Mohan,English Communication,4
+CB8760,A Handbook of Philosophy,Syysyukalov B.I.,Philosophy,2
+CB8757,Core Empowerment,Paula Horan,Self-Help,3
+CB6954,Epitome Of Wisdom,Board of Editors,Philosophy,2
+GT30,Chinna Katha-1,Bhagavan Sri Satya Sai Baba,Spiritual,3
+CB8731,The Republic,Lindesay A.D,Philosophy,4
+3441,Games for Language Learning,Wright Andrew,Language Learning,3
+CB6950,Lingua Toefl CBT: Practice Test Book,Longua Forum,Exam Prep,3
+CB6935,A Textbook of English Phonitics for Indian Students,Balasubramanian T.,Phonetics,4
+2396,A Textbook of English Phonetics for Indian Students,Balasubramanian T.,Phonetics,4
+4572,English Phonetics and Phonology: A Practical Course,Roach Peter,Phonetics,4
+3624,Spoken English: A Self-Learning Guide to Conversion,Sasikumar V,English Communication,4
+CB8665,A Textbook of English Phonetics for Indian Students,Balasubramanian T.,Phonetics,3
+CB6984,Word Power Made Easy,Norman Lewis,Vocabulary,6
+CB8719,Oxford Practice Grammar with Answers,Eastwood John,English Grammar,5
+CB8715,High School English Grammar and COMPosition,Wren P. C.,English Grammar,6
+CB8716,High School English Grammar & COMPosition,Wren P. C.,English Grammar,6
+CB6958,Strengthen Your Steps,Hariprasad M.,English Communication,3
+2497,Teaching and Learning English: A Sourcebook for Tead,Tickoo M. L.,English Communication,3
+CB6939,Oxford Practice Grammar,Eastwood John,English Grammar,4
+CB8863,A Dictionary of Science,Uvarov E. B.,Dictionaries,3
+CB8728,Wings of Fire An Autobiography,Abdul Kalam A. P. J.,Biography,6
+CB8744,World-Famous Scientists,Rajeev Garg,Biography,3
+CB6987,The First-Time Cook Book,Janet,General Interest,2
+CB8703,Developing Communication Skills,Krishna Mohan,English Communication,4
+CB8758,Scoundrels & Scalawages,Reder's Digest,Literature,3
+GT26,Bring up the Bodies,Mantel Milary,Literature,3
+CB8748,C.P Brown Date Line: A Day by Day Guide to People Paces and E,Subbarayudu,History,2
+GT25,Millenium House Pvt Ltd,Millenium House,General Knowledge,2
+CB8762,A Dictionary of Geography,Moore W.G,Dictionaries,3
+CB8753,An Autobiography of The Story of my Experiments wit,M.K. Gandhi,Biography,6
+CB8754,Profile of Gandhi,Norman Cousins,Biography,3
+2476,The Diary of Young Girl,Frank Anne,Biography,5
+CB8750,Mein Kampf,Adolf Hitler,History,3
+CB8752,The Discovery of India,Jawaharlal Nehru,History,5
+CB8755,Indian Discovered,John Keay,History,3
+CB8751,Glimpses of World History,Jawaharlal Nehru,History,4
+CB8859,Figures for Fun,Perelman Ya I.,Mathematics,3
+CB8858,Algebra Can Be Fun,Perelman Ya I.,Mathematics,3
+CB8862,Physics for Entertainment: Vol-II,Perelman Ya I.,Physics,3
+CB8861,Physics for Entertainment: Vol-I,Perelman Ya I.,Physics,3
+CB8729,Siddhartha,Hesse Hermann,Literature,4
+CB7715,Electronic Publishing: Un Leshed,Stanek William R,Publishing,2
+9008,Life's Amazing Secrets,Gaur Gopa Das,Self-Help,5
+9064,Life is What You Make it,Shenoy Preeti,Literature,4
+GT184,Energige your Mind,Das Gaur Gopal,Self-Help,4
+9040,Atomic Habits,Clear James,Self-Help,6
+8988,I Have Been Thinking,Shriver Maria,Self-Help,3
+9090,As a man Thinketh,Allen James,Self-Help,4
+9075,IKIGAI: The Japanese Secret t a Long And Happy Life,Garcia Hector,Self-Help,6
+9107,Steave Jobs,Isaccson Walter,Biography,5
+9003,How Successful People Think,Maxwell John C.,Self-Help,4
+9043,The Power of Your Subconscious Mind,Murphy B,Self-Help,6
+9005,The Magic of Think Big,Schwartz David,Self-Help,5
+9035,How to Win Friends and Influence People,Carnegie Dale,Self-Help,6
+9092,Switch: How to Change Things When Change is Hard,Chip Heath,Self-Help,4
+8993,The 7 Habits of Hightly Effective People,Covey Stephen,Self-Help,6
+9038,Thinking Fast and Slow,Kahneman Daniel,Psychology,5
+9032,You are a Badass,Sincero Jen,Self-Help,4
+GT121,What Why and How of Group Discussion,Bhaskar Rao. Varanasi,Soft Skills,3
+GT173,Sripadha Srivallabha Sampurna Charitha,Bhattu Shankara,Spiritual,2
+9018,No Limits: the Art and Science of High Performance,Bansal Mukesh,Self-Help,3
+GT174,The Insider (Lopali Manishe),Narasimharao P.V,Literature,3
+9076,The Psychology of Money,Housel Morgal,Finance / Self-Help,6
+9080,Triggers and Insights: VI,Sari Raman Harrish,Business,2
+9423,The Constitution of India,Ambedkar B.R,Law / Polity,5
+9052,Introduction to the Constituion of India,Basu Durga Das,Law / Polity,5
+GT24,X Periential Holidays,Poonawala Yasuf,General Interest,2
+8986,One Day Life Will Change,Saranya Umakanthan,Literature,3
+GT146,Mucusless Diet Healing System,Ehret Arnold,Health,2
+GT145,Rational Fasting,Ehret Arnold,Health,2
+8975,Learning How to Fly,Abdul Kalam A. P. J.,Self-Help,4
+8991,Think and Grow Rich,Hill Napoleon,Self-Help,6
+GT143,Anandaniki Sriaravinda Jeevitamu,Nirodbaran,Spiritual,2
+GT175,Book Lovers,Dr. Rami Reddy Pottham,Literature,2
+8970,The NameSake,Lahari Jhumpa,Literature,4
+9061,The Inheritance of Loss,Desai Kiran,Literature,4
+9073,The Alchemist,Coelho Panto,Literature,6
+9103,Fasting and Feasting,Desai Anita,Literature,3
+9029,The Illicit Happiness of Other People,Joseph Manu,Literature,3
+9106,Rich Dad Poor Dad,Kiyosake Robert T.,Finance / Self-Help,6
+9067,Karma: Why Everything You Know About it is Wrong,Prashant Acharya,Spiritual,4
+9024,War and Peace,Tolstoy Leo,Literature,5
+9015,2 States: The Story of My Marriage,Bhagat Chetan,Literature,5
+9085,The Great Indian Novel,Tharoor Shashi,Literature,4
+8961,The 5am Club,Shrma Robin,Self-Help,5
+8963,A Suitable Boy,Vikram Seth,Literature,4
+9055,The Night Train to Deoli,Buskin Bond,Literature,4
+9022,Untouchable,Anand Mulkaraj,Literature,3
+8955,The Guide,Naraya R.K,Literature,4
+9011,Train to Pakistan,Sigh Kushwant,Literature,4
+8982,The Shadow Lines,Amitav Ghosh,Literature,4
+CB8764,Roget's Thesaurus of Synonyms & Antonums Dictionar,Roget Peter Mark,Dictionaries,4
+GT27,World Greatest Speeches,Thomas Edmund,General Knowledge,3
+CB8756,Five Point Someone,Chetan Bhagat,Literature,5
+3898,Constitution Of India,Singh Mahendra Pal,Law / Polity,4
+1100,Quantitative Aptitude,Abhijit Guha,Aptitude,5
+CB6901,Quantitative Aptitude,Aggarwal R. S.,Aptitude,6
+2641,Quantitative Aptitude for all COMPtative Examination,Guha Abhijit,Aptitude,4
+4113,Quantitative Aptitude,Aggarwal R. S.,Aptitude,6
+4058,A Modern Approach to Verbal & Non-Verbal Resoning,Aggarwal R. S.,Aptitude,6
+8957,Advanced Objective GEN Knowledge,Aggarwal. R.S,General Knowledge,4
+8940,Enclopedia of GEN Science for GEN COMPtitions,Arihant,General Science,4
+9125,10000+ Objective GEN Studies: MCQS 100% Explana,Disha,General Studies,5
+2324,GEN Knowledge Encyclopedia 2018,COMPtition Success Review,General Knowledge,3
+8877,Objective GEN Studies 14000+ Chaptewise Questions,Pandey Manohar,General Studies,4
+8880,NCERT GEN Studies for Civil Services & State Servic,Singh Sheekwant,General Studies,4
+7787,Gate 2022ECE Solved Papers 2000-2021,Garg vinit,Exam Prep,4
+9742,GATE: Topic-Wise Previous Year's Solved Question Papers: CS & IT,Gupta J B,Exam Prep,5
+GT287,GATE: Algorithms,Gupta J B,Exam Prep,3
+GT283,GATE: Algorithms and Operating Systems,Gupta J B,Exam Prep,3
+GT300,GATE: Analog Circuits,Gupta J B,Exam Prep,3
+GT305,GATE: Analog Circuits (workbook),Gupta J B,Exam Prep,2
+GT304,GATE: Basic Eletronic Engineering (workbook),Gupta J B,Exam Prep,2
+GT302,GATE: Communication,Gupta J B,Exam Prep,3
+GT299,GATE: Communication Systems,Gupta J B,Exam Prep,3
+GT285,GATE: Compiler Design,Gupta J B,Exam Prep,3
+GT278,GATE: Computer Networks,Gupta J B,Exam Prep,3
+GT286,GATE: Computer Organization,Gupta J B,Exam Prep,3
+GT280,GATE: Computer Organization and Digital Logic,Gupta J B,Exam Prep,3
+GT272,GATE: Computer Science and Information Technology,Gupta J B,Exam Prep,4
+GT298,GATE: Control Systems,Gupta J B,Exam Prep,3
+GT309,GATE: Data Science and Artificial Intelligence,Gupta J B,Exam Prep,3
+GT276,GATE: Database Management Systems,Gupta J B,Exam Prep,3
+GT297,GATE: Digital Circuits,Gupta J B,Exam Prep,3
+GT284,GATE: Digital Logic,Gupta J B,Exam Prep,3
+GT275,GATE: Discrete Mathematics,Gupta J B,Exam Prep,3
+CB9137,GATE: ECE,Gupta J B,Exam Prep,4
+GT307,GATE: ECE Practice Book Bits and Bytes Vol II,Gupta J B,Exam Prep,3
+GT291,GATE: ECE Practice Booklet Bits and Bytes Vol I,Gupta J B,Exam Prep,3
+GT292,GATE: ECE Practice Booklet Bits and Bytes Vol II,Gupta J B,Exam Prep,3
+GT301,GATE: Electromagnetics,Gupta J B,Exam Prep,3
+GT303,GATE: Electromagnetics (workbook),Gupta J B,Exam Prep,2
+GT293,GATE: Electronic Devices,Gupta J B,Exam Prep,3
+GT290,GATE: Electronics and Communication Engineering,Gupta J B,Exam Prep,4
+GT295,GATE: Engineering Mathematics,Gupta J B,Exam Prep,4
+GT296,GATE: General Aptitute,Gupta J B,Exam Prep,4
+GT294,GATE: Numerical Ability,Gupta J B,Exam Prep,3
+GT306,GATE: Numerical Ability and Verbal Ability,Gupta J B,Exam Prep,3
+GT281,GATE: Operation Systems,Gupta J B,Exam Prep,3
+GT312,GATE: Practice booklet-ECE(VOL-1),Gupta J B,Exam Prep,3
+GT274,GATE: Programming Languages,Gupta J B,Exam Prep,3
+GT273,GATE: Theory of Computation,Gupta J B,Exam Prep,3
+GT282,GATE: Theory of Computation and Compiler Design,Gupta J B,Exam Prep,3
+CB9282,GATE:EEE,Gupta J B,Exam Prep,4
+GT311,GATE-2021ELECTONICS & COMMUNICATION ENGINEERING,Gupta J B,Exam Prep,3
+1190,Office 2013 On Demand,Johnson Steve,Office Software,3
+1705,Office 2013 All-in-one Absolute Beginners Guide,Rutledge,Office Software,3
+1219,Microsoft Office 2010,Schwartz Steve,Office Software,4
+1181,Statistical Analysis: Microsoft Excel 2014,carlberg Conard,Data Analytics,3
+6134,Big Data and Analysis,Acharya Seema,Big Data,4
+7844,Data Structures and Algorithms,Aho Alfred,Data Structures,5
+CB7703,Essential COM,Box Don,Software Engineering,3
+CB1333,Distributed Databases Principles & systems,Ceri Stefano,Database Management,4
+CB7697,Enterprise Integration,Cummins Fred A.,Software Architecture,3
+8767,Data Science and Analysis,Jain V.K,Data Science,4
+CB7839,Designing Enterprise Applications with the Java2 Platform Enterprise Edition,Kassem Nicholas,Software Architecture,3
+CB7691,The Essence of COM with ACTIVEX: A Programmer's Workbook,Platt David.s,Software Engineering,2
+CB7848,Netscape 2 Simplified,Comdex,Networking,2
+GT176,Software Engineering,Mahajan Kirti,Software Engineering,4
+CB7849,Programming Collaborative Web Applications with Microsoft Exchange 2000 Server,Martin Mindy,Web Development,2
+CB7928,Net Beans The Definitive Guide,Boudreau Tim,IDE & Tools,3
+CB7890,Internet Programming,Jamsa Kris,Web Development,3
+CB7888,Programming Internet Controls,Pope Markus,Web Development,2
+7103,Architectures and Frameworks for Developing and Applying Blockchain Technology,Shi Nansi,Blockchain,3
+CB7760,Active Sever Pages 3.0 From Scratch,Chase Nicholas,Web Development,3
+8942,Web Technologies: HTML JavaScript PHP Java JSP ASP.NET XML and AJAX,DT Editorial Services,Web Development,5
+8943,Web Technologies: HTML JavaScript PHP Java JSP ASP.NET XML and AJAX,DT Editorial Services,Web Development,5
+6784,XSLT: Working with XML and HTML,Fung Khun Yee,Web Development,2
+533,Data Structures: A Pseudocode Approach with C,Gilberg Richard F.,Data Structures,4
+3644,Data Structures: A Pseudocode Approach with C,Gilberg Richard C.,Data Structures,4
+CB7904,Professional Web Design: Theory and Technique on the Cutting Edge,Holzschlag Molly E.,Web Design,3
+GT18,Web Publishing with HTML 4: In 21 Days,Lemay Laura,Web Development,3
+CB7893,XML and Java: Developing Web Applications,Maruyama Hiroshi,Web Development,3
+GT17,HTML 4 in 24 Hours: SAMS Teach Your Self,Oliver Dick,Web Development,3
+1730,Developing Java Web Services,Nagappan Ramesh,Web Development,3
+4741,Data Structures and Algorithms,Aho Alfred V.,Data Structures,5
+1577,Data structure Using C,Balagurusamy E.,Data Structures,5
+589,Fundamentals of Data Structures in C++,Horowitz Ellis,Data Structures,5
+6131,Data Structues Through C,Kanetkar Yeshavant,Data Structures,4
+1586,Data Structures with C,Lipschutz Seymour,Data Structures,4
+6166,Handbook of Data Structures and Applications,Mehta Dinesh P.,Data Structures,3
+1773,C with Data Structures,Nageswara Rao,Data Structures,4
+CB7457,Data Structures Using C,Rajani Jindal,Data Structures,4
+GT191,Data Structures and programming Design Using C,Rath Aniya Kumar,Data Structures,3
+1626,Data Structures Using C,Samir Kumar Bandyopadhyay,Data Structures,4
+1712,Data Structures Using C,Tenenbaum Andrew,Data Structures,4
+CB7811,Data Structures Using Pascal,Tenenbaum Aaron M.,Data Structures,3
+GT220,Data Structures Using C,Thereja Reema,Data Structures,4
+3663,An Introduction to Data Structures with Applications,Trembley Jean-Paul,Data Structures,4
+GT202,Datastructures and Software Development in an Object Oriented Domain,Tremblay Jean-Paul,Data Structures,3
+701,Data Structures and Algorithm Analysis in C,Weiss Mark Allen,Data Structures,4
+6628,Data Warehousing in the Real World,Anahory Sam,Data Warehousing,3
+7153,The Data Science Handbook,Cady Field,Data Science,4
+CB7505,Distributed Databases: Principles & Systems,Ceri Stefano,Database Management,4
+GT201,Database Systems,Connolly Thomas,Database Management,4
+4732,Database Systems: A Practical Approach to Design Implementation and Management,Connolly Thomas,Database Management,5
+2750,An Introduction to Database Systems,Date C.J. & et.al.,Database Management,6
+3810,Hadoop for Dummies,Deroods Dir,Big Data,3
+4761,Database Systems: Models Languages Design and Application Programming,Elmasri Ramez,Database Management,5
+6092,Fundamentals of Database Systems,Elamasri Ramez,Database Management,6
+8083,Modern Database Management,Hoffer Jeffrey A.,Database Management,5
+8304,Architecting Enterprise Blockchain Solutions,Holbrook Joseph,Blockchain,3
+CB866,The Data Warehouse Life Cycle ToolKit,kimball Ralph,Data Warehousing,4
+CB7665,DB2 IBM's Database 2,Leon Alexis,Database Management,3
+CB7991,Data Management and File Structures,Loomis Wary E.S,Data Management,3
+CB7641,Database Management Systems,Majumdar Arun K,Database Management,4
+5006,Big Data: Principles and best Practices of Scalable real Time Data System,Marz Nathan,Big Data,4
+7301,Smart Contract Development with Solidity and Ethereum: Building Smart Contacts with the Asure,Mittal Akhil,Blockchain,3
+CB7504,Principles of Database Systems,Ozsu Tamer M.,Database Management,4
+7150,Data Modelling Fundamentals: A Practical Guide to IT Professionals,Ponniah Paulraj,Database Management,3
+571,Database Management Systems,Ramakrishnan Raghu,Database Management,5
+7242,Big Data Analytics: Introduction to Hadoop Spark and Machine Learning,Raj Kamal,Big Data,4
+CB84,Database Management Systems,Ramakrishanan Raghu,Database Management,5
+CB7643,Database Systems: Design Implementation & Management,Rob Peter,Database Management,4
+CB7480,DB2 Universal Database: Call Level Interface Developer's Guide,Sanders Roger E,Database Management,2
+6965,Blockchain for Business with Hyperledger Fabric,Shah Nakul,Blockchain,3
+CB698,Database System Concepts,Silberschatz Abraham,Database Management,6
+6812,Blockchain Technology,Subramanian Chandramouli,Blockchain,3
+6461,Blockchain: The Blockchain for Beginners Guide to Blockchain Technology and Leveraging Blockchain,Thompsons Josh,Blockchain,3
+CB7992,Beginning Programming for Dummies,Wang Wallace,Programming Languages,3
+4810,Advanced Database Systems,Zaniolo Carlo,Database Management,3
+1530,Information Storage and Retrival Systems,Kowalski Gerald,Information Retrieval,3
+4851,Programming Hive,Caprilo Edward,Big Data,3
+6882,Data warehousing: Fundamentals for IT Professionals,Ponnaiah Paulraj,Data Warehousing,4
+CB7947,OCA Orale Application Server 10g Administrator Exam Guide,Alapati Sam.R,Database Management,2
+CB7960,ORACLE Ocp Building Internet Applications I & II Exam Guide,Allen Christopher,Database Management,2
+CB7948,ORACLE9i for Windows Handbook,Adkoli Anand,Database Management,3
+6259,SQL PL/SQL: The Programming Language of Oracle,Bayross Ivan,Database Management,5
+CB7942,OCP Oracle9i Database: New Features for Administrators Exam Guide,Benjamin Daniel,Database Management,2
+CB8019,Access VBA Programming,Brown Chrles E,Database Management,3
+CB7702,Teach Yourself: Microsoft Active Server Page3,Eddy Sandra E.,Web Development,3
+4678,Data Science From Scratch: First Principles With Python,Grus Joel,Data Science,4
+CB7997,DB2 Universal Database V8 Handbook for Windows Unix and Linux,Gunning Philip K,Database Management,3
+CB7949,ORACLE9i for Windows 2000 Tips & Techniques,Jesse Scott,Database Management,2
+CB7959,Effective Oracle Database 10g Security by Design,Knox David C.,Database Security,3
+CB7938,Expert Oracle Database Architecture,Kyte Thomas,Database Management,4
+CB7956,ORACLE9i As Building J2EE Applications,Morisseau-Leroy Nirva,Database Management,3
+CB7941,ORACLE9i New Features,Rfreeman Robert G,Database Management,2
+CB7950,ORACLE DATABASE 10g XML & SQL: Design Build & Manage XML Applications in Java C C++ &,Scardina Mark,Database Management,3
+1784,Big Data and Analysis,Seema Acharya,Big Data,4
+CB7807,C++ Database Development,Stevens A. L.,Database Management,3
+CB7957,Oracle Database 10g PL/SQL Programming,Urman Scott,Database Management,4
+CB7953,ORACLE9i Mobile,Yeung Alan,Database Management,2
+4809,Multimedia Database: An Object-Relational Approach,Dunckley Lyne,Database Management,3
+GT15,SQL: The Complete Reference,Groff James R,Database Management,4
+6158,Murach's MySQL,Murach Joel,Database Management,4
+6163,Getting Sarted with SQL: A Hands-on Approach for Beginners,Nield Thomas,Database Management,4
+6268,Hands-On Data Warehousing with Azure Data Factory,Cote Christian,Data Warehousing,3
+4984,Data Science From Scratch: First Principles With Python,Grus Joel,Data Science,4
+CB7607,The SQL Guide to ORACLE,Van der Lans Rick F.,Database Management,3
+CB650,Principles of Distributed Database Systems,Ozsu Tamer M.,Database Management,4
+CB7567,Informix Performance Tuning,Suto Elizabeth,Database Management,2
+CB7013,Oracle Database 10g PL/SQL Programming,Urman Scott,Database Management,4
+CB7525,DB2 Universal Database and SAP R/13 Version 4,Bulock Diane,Database Management,2
+7311,Digital Forensics,Arnes Andre,Cybersecurity,3
+7058,Decentralized Computing Using Blockchain Technologies and Smart Contracts,Ashraf S,Blockchain,3
+CB7742,PC Confidential,Banks Michael A.,Cybersecurity,2
+10364,Hardware Security: A Hands-on Learning Appraoch,Bhunia Swarup,Cybersecurity,3
+7276,Practical Digital Forensics,Boddington Richard,Cybersecurity,3
+CB8018,Information Theory Coding and Cryptography,Bose Ranjan,Cryptography,4
+8889,Hacking,Bothra Harch,Cybersecurity,4
+1545,Introduction to Computer Networks & Cybernetics,Chwan-Hwa (john) Wu,Cybersecurity,4
+7229,Expert Oracle and Jave Secrutity: Programming Security Oracle Dabase Applications with Java,Coffin David,Cybersecurity,3
+7032,Comptia Security+All-in-One Exam Guide,Conklin Arthur W.M,Cybersecurity,4
+8625,The Basics of Hacking and Penetration Testing: Ethical Hacking and Penetration Testing Made Easy,Engebreston Patrick,Cybersecurity,4
+1146,Cryptography and Network Security,Forouzan Behrouz,Cryptography,5
+CB7980,Solaris for Managers and Administrators,Freeland Curt,Operating Systems,2
+CB7836,Solaris Security,Gregory Peter H,Cybersecurity,2
+7269,Web Application Security: Exploitation and Counter Measures for Modern Web Application,Hoffman Andrew,Cybersecurity,3
+CB7474,Cryptography and Network Security,Kahate Atul,Cryptography,5
+CB7744,MCSA/MCSE: Windows Server 2003 Network Security Administration,Kufmanna Russ,Cybersecurity,2
+CB7931,Hacking Exposed: Network Security Secrets & Solutions,McClure Stuart,Cybersecurity,4
+8586,The Art of Invisibility: The Worlds Most Famous Hacker Teaches You How to be Safe in the Age of Big,Mitnick Kevin,Cybersecurity,4
+6917,Cryptography and Network Security,Forouzan Behrnez,Cryptography,5
+8601,The Art of Invisibility: The Worlds Most Famous Hacker Teaches You How to be Safe in the Age of Big,Mitnick Kevin,Cybersecurity,4
+9408,Cloud Security and Privacy,Mother Tim,Cloud Security,3
+CB381,Computer Forensics and Investigations,Nelson Bill & et al.,Cybersecurity,4
+CB7314,Computer Forensics and Investigations,Nelson Bill,Cybersecurity,4
+CB7706,Network Security,Siddharth,Cybersecurity,3
+CB7669,Cryptography and Network Security: Principles and Practice,Stallings William,Cryptography,5
+CB7680,Network Security Essentials: Applications and Standards,Stallings William,Cybersecurity,4
+CB7031,Network Security Essentials: Applications and Standards,Stallings William,Cybersecurity,4
+7481,The Web Application Hacker's Handbook: Finding and Exploring Security Flaws,Stuttard Dafydd,Cybersecurity,4
+CB211,Computer Forensics,Vacca John,Cybersecurity,3
+CB7318,Computer Forensics: Computer Crime Scene Investigation,Vacca John R.,Cybersecurity,3
+GT206,CCNA Security,Watkins Michael,Cybersecurity,3
+716,Applied Cryptography: Protocols Algorithms and Source Code in C,Schneier Bruice,Cryptography,5
+GT194,Network Security and Cryptography,Sehgal Umesh,Cybersecurity,3
+7523,Beginning Ethereum & Solidity with React,Lim Greg,Blockchain,3
+4874,Vitural Reality Technology,Burdea Grigore C.,Virtual Reality,3
+6361,No SQL Dummies,Fowler Adam,Database Management,4
+8844,Introductin to Embeded Systems,Shibu K.V,Embedded Systems,4
+CB7815,Data Mining,Adriaans Pieter,Data Mining,3
+3799,Introduction To Machine Learning,Alpaydin Ethem,Machine Learning,5
+CB7826,Data Warehousing In The Real World: A Practical Guide for Building Decision Support Systems,Anhorry Sam,Data Warehousing,3
+CB1315,Data Mining: Techniques,Arun Pujari K.,Data Mining,4
+4748,Advanced Web Metrics With Google Analytics,Clifton Brian,Data Analytics,3
+7076,Introduction to Natural Laguage Processing,Eisenstein Jacob,Natural Language Processing,4
+4351,Fundamentals of Neural Networks: Architecture Algorithms and Applications,Fausett Laurene,Artificial Intelligence,4
+6973,Neural Networks: Algorithms Applications and Programming Techniques,Freeman James A,Artificial Intelligence,3
+CB7485,Neural Networks in Computer Intelligence,Fu Limin,Artificial Intelligence,3
+10348,Pragmatic Ai: An Introduction to Cloud-Based Machine Learning,Gifth Noah,Artificial Intelligence,3
+CB821,Neural Networks: A Comprehensive Foundation,Haykin Simon,Artificial Intelligence,5
+CB7638,Neuro-Fuzzy And Soft Computing,Jang J. S. R.,Soft Computing,4
+3696,Neuro-Fuzzy & Soft Computing: A Computational Approach to Learning and Machine Intelligence,Jang J.S.R,Soft Computing,4
+3765,Soft Computing and Intelligent Systems Design: Theory Tools and Applications,Karry Fakhreddine,Soft Computing,3
+CB1326,Neural Networks and Fuzzy Systems,Kosko Bart,Artificial Intelligence,4
+4422,Neural Networks and Fuzzy Systems: A Dynamical Systems Approach to Machine,Kosko Bart,Artificial Intelligence,4
+9559,Practical Machine Learning for Computer Vision: End to End Machine Learning for Beginners,Lakshmanan Valliappa,Machine Learning,4
+656,Artificial Intelligence: Structures and Strategies for Complex Problem Solving,Luger George F,Artificial Intelligence,5
+CB8013,An Introduction to Fuzzy Sets Analysis and Design,Pedrycz Witold,Fuzzy Logic,3
+CB1423,Artificial Intelligence,Rich Elaine,Artificial Intelligence,5
+CB56,Artificial Intelligence,Russell Stuart J.,Artificial Intelligence,6
+CB7572,Artificial Intelligence: A Modern Approach,Russell Stuart,Artificial Intelligence,6
+667,Artificial Intelligence: A Modern Approach,Russell Stuart J.,Artificial Intelligence,6
+9553,Artificial Interlligence: A Modern Approach,Russell Struart,Artificial Intelligence,6
+1794,Big Data,Schmarzo Bill,Big Data,4
+4427,Doing Data Science,Schutt Rachel,Data Science,4
+3802,Principles of Soft Computing,Sivanandam S. N.,Soft Computing,4
+1786,Google Big Query Analytics,Tigani Jordan,Data Analytics,3
+8912,A Classical Approach to Artificial Intelligence: Al LISp Prolog,Trivedi Munesh Chandra,Artificial Intelligence,3
+2301,Artificial Intelligence,Winston Patrick Henry,Artificial Intelligence,4
+6414,Hands-On Convolutional Neural Networks with Tensorflow,Zafar Iffat & Et.al.,Deep Learning,3
+6317,Building Machine learning Powered Applications: Going from Idea to Product,Ameisen Emmanuel,Machine Learning,3
+1753,Machine Learning For Big Data,Bell Jason,Machine Learning,4
+8765,Machine Learning,Chopra Rajiv,Machine Learning,4
+9531,Data Science and Big Data Analytics: Discovering Analyzing Visulizing and Presending Data,EMC Educational Service,Data Science,5
+8465,Hands-on Agile Software Development with JIRA,Hamed David,Agile Methodology,3
+CB980,Software Reuse,Jacobson Ivar & et al.,Software Engineering,3
+GT221,Sotware Engineering Principles and Practices,Jain Deepak Chauhan,Software Engineering,4
+CB7350,An Integrated Approach to Software Engineering,Jalote Pankaj,Software Engineering,5
+CB7979,Metrics and Models in Software Quality Engineering,Kan Stephen H.,Software Engineering,4
+8792,Soft Computing and Intelligent Systems Design: Theory TOPI and Applications,Karry Fakhreddine Dsilv,Soft Computing,3
+1204,Algorithm Design,Kleinberg John,Algorithms,5
+CB7693,Data Structures and Program Design,Kruse Robert L.,Data Structures,4
+CB1490,Metrics and Models in Software Quality Engineering,Kan Stephen H.,Software Engineering,4
+7022,Agile & Interactive Development: A Managers Guide,Larman Craig,Agile Methodology,4
+1536,Introduction to Software Engineering,Leach Ronald,Software Engineering,3
+10344,Beginning MERN Stact Development,Lim Greg,Web Development,4
+CB7894,Enterprise Application Integration,Linthicum David S,Software Architecture,3
+6963,Agile Methodologies In-Depth,Malakar Sudipta,Agile Methodology,3
+1597,Programming A Beginner's Guide,Mansfield Richard,Programming Languages,3
+CB7787,The Design & Analysis of Algorithms,Nitin Upadhyay,Algorithms,4
+10367,Making sometime social near- Games with HTML5 CSS3 and,Pagella Mario Andres,Game Development,2
+CB1413,Software Engineering,Prabhakar Gupta,Software Engineering,4
+3689,Software Engineering: A Practioner's Approach,Pressman Roger S.,Software Engineering,6
+CB7547,Design & Analysis of Algorithms,Puntambekar A. A.,Algorithms,4
+6967,Demystifying Azure Devops Services,Raj Ashish,DevOps,3
+CB7765,Computer Programming Laboratory for JNTU,Ramesh Babu,Programming Languages,3
+CB7869,Software Project Management,Royce Walker,Software Engineering,4
+CB8003,Object-Oriented Modeling and Design,Rumbaugh James,Software Design,5
+7152,Agile Software Development with Scrum,Schwaber Ken,Agile Methodology,4
+575,Software Engineering,Schach Stephen,Software Engineering,5
+CB7748,Analysis of Algorithms,Sedgewick Robert,Algorithms,4
+6111,Design and Analysis of Algorithms,Sen Sandeep,Algorithms,4
+6288,Design and Analysis of Algorithms: A contemporary perspective,Sen sandeep,Algorithms,4
+CB7764,Data Structures and Analysis of Algorithms,Sethukarasi T.,Data Structures,3
+CB7878,Software Engineering,Shooman Martin,Software Engineering,4
+6560,Hands-On Exploratory Data Analysis with Python,Suresh Kumar Mukhiya,Data Analytics,3
+CB7870,Software Requirements and Estimation,Swapna Kishore,Software Engineering,3
+9603,Data Structures Using C,Tanenbarum Aaron M,Data Structures,5
+9451,Natural Langugat rocessing with Transformers: Building Laguage,Tunstall Lewis,Natural Language Processing,3
+CB7882,Software Engineering: A Beginer's Approach,Uma Maheswari,Software Engineering,3
+1541,Design and Analysis of Algorithms,Venugopal Temberveni,Algorithms,4
+1718,Buliding Secure Software: How To Avoid,Viega John,Cybersecurity,3
+1543,Software Quality,Wieczorek Martin,Software Engineering,3
+598,UML 2 and the Unified Process,Arlow Jim,Software Design,4
+CB1160,The Unified Modeling Language User Guide,Booch Grady,Software Design,5
+CB543,The UML User Guide,Booch Grady,Software Design,5
+CB1157,The Unified Modeling Language User Guide,Booch Grady,Software Design,5
+CB7650,Real Time UML,Doglass Bruce Powel,Software Design,3
+CB7937,Real Time UML: Developing Efficient Objects for Embedded Systems,Douglass Bruce Powel,Software Design,3
+CB7886,UML 2 Toolkit,Eriksson Hans-Erik,Software Design,3
+7394,Programming ADO.NET,Hundhaousen Richar,Software Engineering,3
+654,Applying UML and Patterns,Larman Craig,Software Design,5
+GT200,UML and C++,Lee Richard,Software Design,3
+CB7766,Object Oriented Analysis and Design Using UML,Mallesh Adicherla,Software Design,4
+CB7919,Practical Object-Oriented Design with UML,Priestley Mark,Software Design,3
+6729,Design Patterns Explained: A New Perspective on Object-Oriented Design,Shalloway Alan,Software Design,4
+CB9363,Visual Studio .Net Programming,Parihar Mridula,Software Engineering,3
+CB7901,Object Oriented Analysis and Design,Avanija J,Software Design,3
+CB52,Design Patterns: Elements of Reusable Object-Oriented Software,Gamma Erich,Software Design,6
+CB45,Design patterns,Gamma Erich,Software Design,6
+CB46,Design Patterns: Elements of Reusable Object-Oriented Software,Gamma Erich,Software Design,6
+3356,SQL PL/SQL: The Programming Language of Oracle,Bayross Ivan,Database Management,5
+CB7982,An Introduction to Computer Studies,Kalicharan Noel,Computer Science,3
+2011,Programming Languages: Design And Implementation,Pratt Terrance,Programming Languages,4
+1728,Core Java For Beginners,Rashmi Kanta Das,Programming Languages,4
+972,Programming Language Practices,Scott Michael L.,Programming Languages,4
+CB144,Concepts of Programming Languages,Sebesta Robert,Programming Languages,5
+CB7546,Programming Language Design Concepts,Watt David,Programming Languages,4
+6478,Introduction to Automata Theory Languages and Computation,Hopcroft John E.,Theory of Computation,6
+8534,Theory of Computer Science: Automa Languages and Computation,Mishra K.L.P,Theory of Computation,5
+8547,An Introduction to Formal Languages and Automata,Linz Peter,Theory of Computation,5
+CB7217,Computer Programming And Data Structures,Adicherla Mallesh,Data Structures,4
+1622,Programming in C: A Practical Approach,Ajay Mittal,Programming Languages,4
+4688,Building With C,Albas Henk,Programming Languages,3
+9521,Flutter Projects: A Practival Projects Based Guide to Building Real World Cross-Platform Mobile Aplications and Games,Alessandria Simone,Mobile Development,3
+CB7768,Hands On Java Beans,Allen Mitch,Programming Languages,3
+CB7486,C++ Programming Bible,Al Sevens,Programming Languages,4
+CB8017,The Java Programming Language,Arnold Ken,Programming Languages,4
+6173,Mastering Python Design Patterns,Ayeva Kamon,Software Design,3
+1568,Computing Fundamentals & C Programming,Balagurusamy E.,Programming Languages,5
+CB7183,C Programming And Data Structures,Balagurusamy E.,Data Structures,5
+1572,Computing Fundamentals & C Programming,Balagurusamy E.,Programming Languages,5
+GT193,C Projects Made Easy,Balakrishna Prasad P,Programming Languages,3
+1563,Computer Programming,Balagurusamy E.,Programming Languages,5
+CB7190,C Programming And Data Structures,Balagurusamy E.,Data Structures,5
+GT211,Object Oriented Programming C++,Balaguruswamy E.,Programming Languages,5
+6147,Object Oriented programming with C++,Balagurusamy E.,Programming Languages,5
+CB9361,Programming Visual Basic 6.0,Balena Francesco,Programming Languages,3
+CB7192,Programming In ANSI C,Balagurusamy E.,Programming Languages,6
+CB7531,Programming With Java: A Primer,Balagurusamy E,Programming Languages,6
+CB7194,Programming In ANSI C,Balagurusamy E.,Programming Languages,6
+548,Programming in ANSI C,Balaguruswamy E.,Programming Languages,6
+4957,Programming In ANSI C,Balagurusamy E.,Programming Languages,6
+4873,Hands-On Recommendation System with Python,Banik Rounak,Machine Learning,3
+CB7995,C and Unix: Tools for Software Design,Barrett Martin L,Operating Systems,3
+6479,Head First Python,Barry Paul,Programming Languages,4
+CB7497,Object-Oriented Programming In C++,Barkakati Nabajyoti,Programming Languages,4
+6940,Java Persistance with Hibernate,Bauer Christian,Web Development,3
+CB8031,Web Enabled Commercial Application Development Using Java 2.0,Bayross Ivan,Web Development,4
+CB512,Java Server Pages,Bergsten Hans,Web Development,3
+7273,Natural Language Processing with Python,Bird Steven,Natural Language Processing,4
+7671,Natural Language Processing with Python,Bird Steven,Natural Language Processing,4
+2920,Exploring Python,Budd Timothy A.,Programming Languages,3
+CB7918,Understanding Object-Oriented Programming with JAVA,Budd Timothy,Programming Languages,4
+4845,Introduction to Machinne Learning with R,Burger Scott,Machine Learning,3
+CB7740,The Java Tutorial: Object Oriented Programming for The Internet,Campione Mary,Programming Languages,4
+CB8015,Programming with VisualAge For C++ for Windows,Carrel-Billiard Mace,Programming Languages,2
+6980,Spring Microservices in Action,Carnell John,Web Development,4
+6196,Python API Development Fundamentals,Chan Jack,Web Development,3
+4935,Deep Learning With Python,Chollet Francois,Deep Learning,5
+1634,Core Python: Applications Programming,Chun Wesley J.,Programming Languages,4
+CB7518,C++ Program Design: An Introduction to Programming and Object-Oriented Desion,Cohoon James P,Programming Languages,3
+CB7613,Java Design Patterns: A Tutorial,Cooper James. W,Software Design,3
+6176,Data Engineering with Python and Flask,Crickard Paul,Data Engineering,3
+CB7614,More Java/J2EE Pifalls,Daconta Michael,Programming Languages,2
+1639,C how to Program,Deitel Paul,Programming Languages,5
+3694,Java How to Program: Early Objects: Early Objects,Deitel Paul,Programming Languages,6
+CB7133,C & Data Structures,Deshpande P. S.,Data Structures,4
+7125,Building a Restful Web Services With Spring,Dewailly Ludovic,Web Development,3
+GT222,Computer Programming and Data Structures,Dey Pradip,Data Structures,4
+GT217,Pragarmming in C,Dey Pradip,Programming Languages,4
+1719,Data Structures: A Programming Approach With C,Dharmender Singh Kushw,Data Structures,3
+2929,Introduction to Computer Science using Python: A computer Problem Solving Focus,Dierbach Charles,Computer Science,4
+9127,Spring and Hiberbate,Santhosh Kumar,Web Development,4
+CB8028,JavaBeans,Doherty Donald,Programming Languages,3
+CB8001,Java RMI Remote Method Innovation,Downing Troy Bryan,Software Architecture,2
+3162,Think Python: How to Think like a Computer Sceintist,Downey Allen B.,Programming Languages,5
+1743,Core And Advanced Java: Black Book,DT Editorial,Programming Languages,5
+CB8025,J2EE Antipatterns,Dudney Bill,Software Architecture,2
+CB8023,Java Tools,Eberhart Andreas,Programming Languages,3
+GT136,C Programming Data Structures,Forouzan Behrouz A.,Data Structures,5
+1551,Computer Science: A Structured Programming Approach using C,Forouzan Behrouz A.,Computer Science,5
+CB7841,Computing With Java: Programs Objects Graphics,Gittleman Art,Programming Languages,3
+4682,Beginning Java EE 6 Platform with Glassfish 3: Novice to Professional,Goncalves Antonio,Web Development,3
+CB80,Data Structures and Algorithms in C++,Goodrich Michael T.,Data Structures,5
+1154,Programming With C,Gottfried Byron,Programming Languages,5
+7831,Head First C,Griffithms David,Programming Languages,4
+6637,Head First Android Development: A Brain Friendly Guide,Griffman Dawn,Mobile Development,4
+3152,Practical Programming: An Introduction to Computer Science Using Python 3.6,Gries Paul,Programming Languages,4
+CB8030,Java RMI,Grosso William,Software Architecture,2
+CB7750,The Sun Certified Java Developer Exam With J2SE 1.4,Habibi Mehran,Certification Prep,2
+CB8014,Java 2 from Scratch,Haines Steven,Programming Languages,3
+CB7924,The C Primer,Hancock Les,Programming Languages,3
+CB7209,Programming In C and Data Structures,Hanly Jeri R.,Data Structures,4
+CB7609,Java 2: Exam Notes,Heller Philip,Certification Prep,2
+CB7603,Java After Hours,Holzner Steven,Programming Languages,3
+CB7733,Professional MTS MSMQ wit VB and ASP,Homer Alex,Web Development,2
+3697,Core Java: Volume-I Fundamentals,Horstmann Cay S.,Programming Languages,6
+1186,Core Java: Volume-II Advanced Features,Horstmann Cay S.,Programming Languages,5
+4805,Core Java 2: Volume-I Fundamentals,Horstmann Cay S,Programming Languages,5
+633,Core Java: Advanced Features (Vol-II),Horstmann Cay S.,Programming Languages,5
+3226,Fundamentals of Data Structures in C,Horowitz Ellis,Data Structures,6
+6366,Designing Microservices using Django,Jain Shayank,Web Development,3
+CB7448,O' Level Module-M4.3: Programming & Problem Solving Through Visual Basic,Jain V. K.,Certification Prep,2
+CB7698,Visual Basic.Net: Tips & Techniques,Jamsa Kris,Programming Languages,3
+1729,A First Course In Programming With C,Jeyapoovan,Programming Languages,4
+1658,C Programming In One Hour A Day,Jones Broadley,Programming Languages,3
+CB7840,Introduction to MFC Programming with Visual C++,Jones Richard M,Programming Languages,3
+1661,Problem Solving With C,Jones Jacqueline,Programming Languages,3
+7769,Tamming Python by programming,Jose Jeeva,Programming Languages,4
+1667,C Programming,Kamthane Ashok,Programming Languages,5
+CB7167,C And Data Structures,Kamthane Ashok N.,Data Structures,4
+1203,C Programming: Test Your Skills,Kamthane A. Ν.,Programming Languages,4
+1668,C Programming,Kamthane Ashok,Programming Languages,4
+CB7728,The Java FAQ,Kanerva Jonni,Programming Languages,2
+6071,Let Us Python,Kanetkar Yeshavant,Programming Languages,5
+223,Let us C,Kanetkar Yashavant,Programming Languages,6
+7192,Let Us C Solutions,Kanetkar Yashwant,Programming Languages,5
+7944,Let Us C,Kanetkar Yashvant,Programming Languages,6
+7492,Let Us C: Authentic Guide to C Programming Language,Kanetkar Yashwant,Programming Languages,6
+7165,Let Us C,Kanetkar Yashwant,Programming Languages,6
+6140,Let Us C++,Kanetkar Yeshavant,Programming Languages,5
+7172,Understanding Pointers in C & C++,Kanetkar Yashwant,Programming Languages,5
+6202,Data structures and Algorithmic Thinking with Python: Data Structures land Algorithmic Puzzles,Karumanchi Narasimha,Data Structures,5
+528,Data Structures and Algorithms Made Easy,Karumanchi Narsimha,Data Structures,6
+7437,J2EE: The Compte Reference,Keogh Jim,Web Development,5
+CB1366,The C Programming language,Keringhan Brian W.,Programming Languages,6
+CB8020,C++ Power Packed,Khanna Kabir,Programming Languages,2
+1678,Programming In Objective C,Kochan Stephen,Programming Languages,3
+1686,Programming In C,Kochan Stephen,Programming Languages,4
+6155,Classic Computer Science Problems in Python,Kopee David,Algorithms,4
+3700,Data Structures and Program Design In C,Kruse Robert,Data Structures,4
+4972,Data Structures and Program Desin in C ( with CD),Kruse Robert,Data Structures,4
+6600,Devops for Web Development,Mitesh Soni,DevOps,3
+7071,Mastering Microsoft Power BI,Powell Brett,Data Analytics,3
+10366,Beginning Spring Boot2,Prasad Reddy Siva,Web Development,3
+6567,Devops with Kubernetes,Saito Hideto,DevOps,3
+4577,The Algorithm Design Manual,Skiena Steven,Algorithms,5
+6112,Hands-On Genetic Algorithms with Python,Wirsansky Eyal,Machine Learning,3
+4916,Generative Deep Learning: Teaching Machines to Paint Write Compose and Play,Foster David,Deep Learning,4
+6164,Getting Sarted with SQL: A Hands-on Approach for Beginners,Geron Aurelien,Database Management,4
+9602,Hands-On Machine Learning With Scikit Learn Keras & TensorFlow,Geron Aurelien,Machine Learning,6
+8761,Genetic Algorithms In search Optimization & Machine Learning,Goldberg David E.,Machine Learning,4
+8762,Genetic Algorithms In search Optimization & Machine Learning,Goldberg David E.,Machine Learning,4
+4719,Deep Learning,Goodfellow Ian,Deep Learning,6
+GT165,Machine Learning in Action,Harrington Peter,Machine Learning,4
+4855,Practical Deep Learning for Cloud Mobiles Edge,Koul Anirudh,Deep Learning,3
+6367,Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation Model Building and MLOPS,Lakshmanan Valliappa,Machine Learning,4
+6243,Machine Learning With Tensor Flow,Mattmann Chris,Machine Learning,4
+1598,Machine Learning,Mitchell Tom,Machine Learning,5
+6095,Machine Leaning (in Python and R) for DUMMIES,Mueller John Paul,Machine Learning,4
+6271,Machine Learning (in Python and R) Dummies,Mueller John Paul,Machine Learning,4
+10368,Reinforcement Learning with open Al Tesorflow and Keras Using Python,Nandy Abhishek,Machine Learning,3
+5011,Deep Learning: A practioner's Approach,Patterson Josh,Deep Learning,4
+5012,Deep Learning: A practioner's Approach,Patterson Josh,Deep Learning,4
+6346,Deep Learning With Structured Data,Ryan Mark,Deep Learning,3
+GT187,Understanding Machine Learning From Theory to Algorithms,Shalev Shwartz Shai,Machine Learning,4
+6214,Introducing MLOPS: How to Scale Machine Learning in the Enterprise,Treveil Mark,Machine Learning,3
+6232,Deep Learning from Scratch: Builiding with Python from First Principles,Weidman Seth,Deep Learning,4
+8927,Data Analysis,Anil Maheshwari,Data Analytics,4
+6613,Introducing Data Science,Cielen Davy,Data Science,4
+8928,Big Data Black Book: Covers Hadoop2 Mapreduce Hive Yarn Pig R and Data Visulization,DT Editorial Services,Big Data,5
+4754,Data Science and Big Data Analytics: Discovering Verilog Analyzing Visualizing and Presenting Data,EMC Educational Service,Data Science,4
+707,Taming the Big Data Tidal Wave: Finding Opportunity,Franks Bill,Big Data,3
+CB1266,Data Mining: Concepts and Techniques,Han Jaiwei,Data Mining,5
+6371,Big Data: Black Book,DT Editorial,Big Data,4
+8814,Big Data & Hadoop,Jain VK,Big Data,4
+6709,Data Mining: Next Generation Challenges and Future Directions,Kargupta Hillol,Data Mining,3
+8648,Data Mining,Pudi vikram,Data Mining,4
+6565,Applied Deep Learning and Computer Vision for Self-Driving Cars,Ranjan Sumit,Deep Learning,3
+8660,Introduction to Data Mining,Tan Pang-Ning,Data Mining,5
+4464,Python Data Science Handbook,Vanderplas Jake,Data Science,5
+4432,R for Data Science: Import Tidy Transform Visualize and Model Data,Wickham Hadley,Data Science,5
+197,Neural Networks And Learning Machines,Haykin Simon,Artificial Intelligence,5
+CB7459,Neural Networks and Fuzzy Systems,Kosko Bart,Artificial Intelligence,4
+6495,Programming PyTorch for Deep Learning,Pointer Ian,Deep Learning,4
+8268,Qt5 and Open CV4 Computer Vision Projects,Qingliang Zhuo,Computer Vision,3
+CB7460,Neural Networks Fuzzy Logic and Genetic Algorithms: Synthesis and Applications,Rajasekaran S.,Soft Computing,4
+CB1129,Artificial Neural Networks,Yegnanarayana B.,Artificial Intelligence,4
+CB7458,Artificial Neuaral Networks,Yegnanarayana B.,Artificial Intelligence,4
+7324,Speech and Language Processing: An Introduction to Natural Language Processing Computational Linguistic and Speech Recognition,Jurafsky Daniel,Natural Language Processing,5
+4735,Foundations of Statistical Natural Language Processing,Manning Christopher D.,Natural Language Processing,4
+6646,Natural Language Processing with Pytorch,Rao Delip,Natural Language Processing,4
+6456,A Practical Introduction to Computer Vision with OpenCV,Dawson-Howe Kenneth,Computer Vision,3
+4828,Computer Vision: A Modern Approach,Forsyth David A.,Computer Vision,4
+9500,Leaning Open CV4 Computer Vision With Python3,Howse Joseph,Computer Vision,4
+9738,The Full Stack Developer,Northwood Chris,Web Development,3
+7230,Pattern Recognition with Fuzzy Objection Function Algorithms,Bezdek James C.,Pattern Recognition,3
+4643,Pattern Classification,Duda Richard,Pattern Recognition,5
+6874,Fundamentals of Speech Recognition,Rabiner Lawrence,Speech Processing,3
+CB7450,Computer Graphics,Agarwal Udit,Computer Graphics,4
+4975,Make: Design for 3D Printing,Bernier Samuel,3D Printing,3
+CB402,Computer Graphics & Principle and Practice,Foley James D.,Computer Graphics,5
+CB7854,Computer Graphics: A Programming Approach,Harrington Steven,Computer Graphics,3
+CB394,Computer Graphics: C Version,Hearn Donald D.,Computer Graphics,5
+CB1479,Computer Graphics,Hearn Donald,Computer Graphics,4
+CB936,Computer Graphics: C Version,Hearn Donald D.,Computer Graphics,4
+CB7996,BPB 250000 Graphics Pack,Macmillan Digital Pub.,Computer Graphics,2
+CB1,Esssential Action Script 2.0,Moock Colin,Web Development,2
+CB7511,Principles of Interactive Computer Graphics,Newman William,Computer Graphics,3
+CB7860,Graphic Programming in C,Stevens Roger T,Computer Graphics,3
+CB7695,OpenGL Super Bible,Wrighr Richard,Computer Graphics,4
+CB7579,Web Classes from Saratch,Liberty Jesse,Web Development,2
+CB7988,Essential Elements of Multimedia,Anadamurgan S,Multimedia,3
+1745,Analytics In A Big Data World,Baesens Bart,Big Data,4
+CB7593,Introduction to Multimedia Systems,Bhatnager Gaurav,Multimedia,3
+1754,Cloud Computing,Buyya Rajkumar,Cloud Computing,5
+1756,Big Data Data Mining And Machine Learning,Dean Jared,Big Data,4
+CB7625,Digital Mutimedia Cross-Industry Guide,Dodds Philip V. M.,Multimedia,2
+CB7635,Using Multimedia Tools and Applications on the Internet,Gehris Dennis O.,Multimedia,3
+9644,Web Analytics 2.0,Kaushik Avinash,Web Analytics,4
+CB7628,Mutimedia Systems,Keoege Buford John F,Multimedia,3
+4876,Big Data,Maheshwari Ani,Big Data,4
+1702,Web Services & SOA: Principles & Technology,Papazoglou Michael,Software Architecture,4
+9459,Beginning with Deep Learning Using Tersor Flow,Silparasetty Mohan Kumar,Deep Learning,3
+CB140,Fundamentals of Multimedia,Ze-Nian Li,Multimedia,4
+6168,Flask Framework Cookbook,Aggarwal Shalabh,Web Development,3
+718,HTML5 BLACK BOOK,DT Editorial Services,Web Development,5
+6927,HTML 5 BLACK BOOK: Covers CSS3 Javascript XML XHTML AJAX PHP Jquery,DT Editorial,Web Development,5
+6698,HTML & CSS: Design and Build Websites,Duckett Jon,Web Development,5
+6175,Building Web APPs with Python and Flask,Lathkar Malhar,Web Development,3
+4884,Sams Teach Yourself HTML CSS and JavaScript All in One,Meloni Julie. C,Web Development,5
+6204,Building Websites with Djanga,Ranjan Awanish,Web Development,3
+4941,AWS: Amazon Web Services,Derry Richard,Cloud Computing,4
+8571,Mastering Dhanga,George Nigel,Web Development,3
+GT14,Programming the World Wide Web,Sebesta Robert W,Web Development,4
+9383,AWS Certified Cloud Practioner,Sequeira Anthony,Cloud Computing,3
+1778,Cloud Computing,Saurabh Kumar,Cloud Computing,4
+8816,Learning Amazon Web Services (AWS): A Handsoon Guide to the Fundamentals of AWS Cloud,Wilkins Mark,Cloud Computing,4
+6114,Unity 2018 Augmented Reality Project,Glover Jesse,Augmented Reality,3
+6355,Flask Web Development: Developing Web Applications with Python,Grinberg Miguel,Web Development,4
+6122,Augmented Reality: theory Design and Development,Shetty Chetan kumar,Augmented Reality,3
+GT142,Annotated Bibliography on State Owned Enterprises & Publis Enterprises,Mishra R.K & Trivikram,Economics,2
+CB7853,World Wide Web Yellow Pages,New Riders,Networking,2
+GT205,Introducing Working and Switching in the Enterprises: CCNA Discovery Learning Guide,Reid Allan,Networking,3
+1234,Elements Of The Theory Of Computation,Lewis Harry R.,Theory of Computation,4
+1214,Automata Computability and Complexity: Theory and Applications,Rich Elaine A,Theory of Computation,4
+1215,Automata Computability & Complexity: Theory and Applications,Rich Elaine A,Theory of Computation,4
+CB8865,Switching And Finite Automata Theory,Kohavi Zvi,Theory of Computation,4
+CB8879,Switching And Finite Automata Theory,Kohavi Zvi & Jha Niraj K,Theory of Computation,4
+6404,Linear Programming,Karloff Howard,Mathematics,3
+6193,Learning Genetic Algorithms with Python,Frindin Ivan,Machine Learning,3
+6431,Combinatorial Optimization: Algorithms and Complexity,Papadimitriou Christros,Optimization,4
+6078,Data Analytics with R,Motwani Bharti,Data Analytics,4
+6393,Text Mining with R,Silge Julia,Data Analytics,3
+7062,Robust Optimization,Ben-Tal Aharon,Optimization,3
+6381,Convex Optimization,Boyd Stephen,Optimization,5
+6384,Understanding and Using Linear Programming,Matouret Jiri,Optimization,3
+6390,Introduction to Linear Optimization,Btertsimas Dimitris,Optimization,4
+6464,Modern Optimization with R,Cortez Paulo,Optimization,3
+6428,Linear Programming and Network Flows,Bazaraa Mothkar S.,Optimization,4
+6415,Nonlinear Programming: Theory and Algorithms,Bazaraa Mothkar S.,Optimization,4
+CB9246,A Course In Electrical Installation Estimating & Costing,Gupta J B,Electrical Engineering,3
+CB2626,Antennas for all Applications,Kraus John D.,Electronics,4
+1275,Optical Fiber Communication: Principles & Practice,Senior John M.,Telecommunications,4
+CB2392,Tabu's Principles of Communication Systems,Taub Herbert & et al.,Telecommunications,4
+2834,Advanced Electronic Communication Systems,Tomasi Wayne,Telecommunications,5
+2132,Fiber-Optics Communication Systems,Agrawal Govind,Telecommunications,4
+CB2191,Kennedy's Electronic Communication Systems,Kennedy George,Telecommunications,4
+2295,Communication Systems Engineering,Pritchard Wilbur L.,Telecommunications,3
+7837,Micro Smart Systems Architecture,Anantha Suresh G. K.,Electronics,3
+CB9111,Digital Electronics and Computer Architecture,Balaji S V,Electronics,4
+7137,Analog Integrated Circuit Design,ChanCarusone toney,Electronics,4
+7017,5G NR: The Next Generation Wireless Acces Tehcnology,Dahlman Eric,Telecommunications,4
+CB2489,Essentials of VLSI Circuits And Systems,Eshraghian Kamran,VLSI Design,4
+CB9169,Problems & Solutions of Electronic Devices & Circuits,Experienced Teachers,Electronics,3
+CB9086,Digital Fundamentals,Floyd Thomas L,Electronics,6
+274,Digital System Design With FPGA and CPLD's,Grout Ian,Digital Logic,3
+CB9161,Electronic Devices and Circuits,Gupta J B,Electronics,5
+1328,Modren Electronic Instrumentation & Measurements,Helfrick Albert,Instrumentation,4
+313,Modern Digital Electronics,Jain R. P.,Electronics,5
+CB2564,Electronic Instrumentation,Kalsi H. S.,Instrumentation,4
+7509,Electronic Instrumentation and Measurements,Kalsi H. S.,Instrumentation,4
+CB9146,Modern Electronic Instrumentation and Measurement Techniques,Helfrick Albert D.,Instrumentation,4
+1930,Principles of Electronics,Mehta,Electronics,5
+CB7077,Principles of Electrical Engineering and Electronics,Mehta,Electrical Engineering,4
+CB2731,Electronic Measurements and Instruments,Lal Kishore K.,Instrumentation,3
+7609,All-in-One Electronics Simplified,Maini anil K.,Electronics,4
+6615,Digital Logic And Computer Design,Mano Morris,Digital Logic,6
+921,Principles Of Electronics,Mehta V. K.,Electronics,5
+CB3219,Principles of Electrical Engineering and Electronics,Mehta V. K.,Electrical Engineering,5
+CB3431,A Course in Electrical and Electronic Measurements and Instrumentation,Sawhney A. K.,Instrumentation,5
+CB2982,Microelectronics,Millman Jacob,Electronics,4
+CB9162,Electronic Devices and Circuits (Applied Electronics Vol-I),Mithal G K,Electronics,4
+CB2923,Transducers and Instrumentation,Murthy D. V. S.,Instrumentation,3
+7636,Microelectronics: Circuit Analysis and Design,Neamen Donald A.,Electronics,5
+7202,Principles of Electronic Instruments,Patranabis D,Instrumentation,3
+CB2676,Switching Theory and Logic Design,Rao C. V. S.,Digital Logic,4
+6744,Microelectronics,Razavi Behzad,Electronics,5
+495,Electronic Test Instruments,Witte Robert,Instrumentation,3
+7119,Digital Systems: Principles and Applications,Tocci ronald J,Digital Logic,5
+CB9083,Digital Systems: Principles & Applications,Tocci Ronald J,Digital Logic,5
+CB9090,Design of Continuous and Digital Electronic Systems,Bird Gordon J A,Electronics,3
+CB9051,Microwave Engineering,Dhrma Raj Cheruku,Microwave Engineering,4
+465,Microwave and Radar Engineering,Gottapu Sasi Bhushan,Microwave Engineering,4
+CB2836,Microwave and Radar Engineering,Kulkarni M.,Microwave Engineering,4
+CB7065,Microwave and Radar Engineering,Kulkarni,Microwave Engineering,4
+CB9054,Microwave Devices and Circuits,Liao Samuel Y,Microwave Engineering,4
+CB9052,Microwave Principles,Reich Herbert J,Microwave Engineering,3
+2854,Fundamentals of Digital Circuits,Anand Kumar A.,Digital Logic,5
+CB1854,IC Applications,Bakshi U. A.,Electronics,4
+329,Electronic Devices and Circuits,Bell David A.,Electronics,5
+CB2520,Electronic Devices and Circuits,Bogart Theodore F.,Electronics,4
+CB9172,Electronic Devices And Circuit Theory,Boylestad Robert L &,Electronics,6
+1353,Electronic Devices And Circuit Theory,Boylestad Robert,Electronics,6
+CB1583,Electronic Devices and Circuit Theory,Boylestad Robert L.,Electronics,5
+361,Electronics Devices and Circuits,Cheruku Dharma Raj,Electronics,4
+1313,Operational - AMPS & Linear Integrated Circuits,Gayakwad Ramakanth,Electronics,5
+CB7069,Electronic Devices and Circuits,Godse A. P.,Electronics,4
+CB7071,Electronic Devices & Circuits,Godse A. P.,Electronics,4
+GT156,Electronic Devices and Circuits,Lal Kishore K.,Electronics,4
+CB9119,Integrated Circuits and Semiconductor Devices: Theory and Application,Deboo Gordoon J.,Electronics,3
+373,Electronic Devices,Floyd Thomas L.,Electronics,5
+1292,Fundamentals Of Analog Circuits,Floyd Thomas,Electronics,4
+CB1635,Electronic Devices and Circuits,Godse A. P.,Electronics,4
+CB1644,Electronic Devices and Circuits,Godse A. P.,Electronics,4
+405,Microelectronic Circuits And Devices,Horenstein Mark N,Electronics,4
+CB1646,Electronic Devices and Circuits,Lal Kishore K.,Electronics,4
+CB9156,Electronic Devices and Circuits,Salivahanan,Electronics,5
+CB9163,Electronic Devices And Circuits I,Sarkar S C,Electronics,4
+CB9164,Electronic Devices & Circuits,Satya Prasad K,Electronics,4
+CB1677,Electronic Devices and Circuits,Lal Kishore K.,Electronics,4
+9720,Nanoelectronics: Design and,Majunder Manoj Kum,Electronics,3
+CB2474,Electronic Devices and Circuits,Millman Jacob,Electronics,5
+CB2956,Electronic Devices and Circuits,Millman Jacob,Electronics,5
+3061,Millman's Electronic Devices and Circuits,Millman Jacob,Electronics,5
+3940,Microelectronic Circuits Analysis and Design,Rashid Muhammad H,Electronics,4
+CB2884,Linear Integrated Circuits,Roy Choudhury D.,Electronics,5
+CB2636,Electronic Devices and Circuits,Salivahanan S.,Electronics,5
+509,A Text Book of Electronic Circuits,Sedha R. S.,Electronics,4
+7247,Micro Electronics Circuits: Theory and Applications,Sedra Adgel,Electronics,5
+CB9104,Linear Integrated Circuits,Roy Choudhury D & J,Electronics,4
+CB9165,Electronic Devices & Circuits,Subrahamanyam SV,Electronics,4
+7072,CMOS VLSI Design: A circuits and systems perspective,Weste Neil H.E,VLSI Design,5
+CB1629,Electronic Devices,Srinivasan K. S.,Electronics,4
+CB1609,Electronic Devices and Circuits,Subrahmanyam S. V.,Electronics,4
+CB1622,Electronic Devices and Circuits,Subrahmanyam S. V.,Electronics,4
+8295,Semiconductor Devices: Physics and Technology,Sze Simon,Semiconductors,4
+6845,Lignal system Design wit Implementation Using Verlog and,Unsalan Cem,Digital Logic,3
+8570,Semiconductor Devices,Neamen Donald A.,Semiconductors,4
+1365,Semiconductor Device Fundamentals,Pierret Robert,Semiconductors,4
+490,Solid State Electronic Devices,Streetman Ben G.,Semiconductors,5
+300,Basic Electronics and Linear Circuits,Bhargava N. N.,Electronics,4
+CB9154,Electronic Circuit Analysis and Design,Neamen Donald A,Electronics,4
+CB9179,Electronic Circuits,Srinivasan KS,Electronics,4
+407,Modren Semiconductor Devices For Integrated Circuits,Chenming Calvin Hu,Semiconductors,4
+GT7,Switching Theory and Logic Design,Anand Kumar,Digital Logic,4
+366,Operational Amplifiers and Linear Integrated Circuits,Coughlin Robert F.,Electronics,4
+1385,Operational Amplifiers With Linear Integer Circuits,Stanley William,Electronics,4
+CB1938,Logic Design Switching Theory and,Godse A. P.,Digital Logic,4
+GT178,Electronic Measurements and Instrumentation,Patil S. N,Instrumentation,3
+CB8884,Integrated Electronics: Analog and Digital Circuits and Systems,Millman Jacob,Electronics,5
+CB8902,Integrated Electronics: Analog and Digital Circuits and Systems,Millman Jacob,Electronics,5
+733,Electromagnetics,Edminister Joseph A.,Electromagnetics,4
+7706,Time Harmonic Electromagnetic Theory,Harrington Roger F.,Electromagnetics,3
+GT168,Electromagnetic Theory,Ramareddy S,Electromagnetics,3
+CB3108,Electromagnetic Fields,Kamakshaiah S.,Electromagnetics,4
+2322,Electromagnetic Fields 3D,Rana K. S.,Electromagnetics,3
+764,Introduction to Electrodynamics,Griffiths David J.,Electromagnetics,5
+344,MATLAB And Its Applications In Engineering,Bansal Raj Kumar,Simulation & MATLAB,4
+GT161,Applied Finite Element Analysis,Ramamurty G.,Engineering Analysis,3
+949,Experimental Methods For Engineers,Holman J. P.,Engineering Analysis,4
+1448,Microprocessor Based Design,Slater Michael,Microprocessors,3
+GT163,A Course in Mechanical Measurements and Instruementation & Control,Sawhney A.K & Sawhney,Instrumentation,4
+GT148,A Textbook of Engineering Mechanics,Bhavakatti S. S,Engineering Mechanics,4
+2275,Materials Selection in Mechanical Design,Ashby Michael F.,Mechanical Engineering,4
+9718,Nano Interconnects: Devices Physics Modeling and Simulations,Khursheed Afreen,Nanotechnology,3
+1054,Nano: The Essentials Understanding Nanoscience and Nanotechnology,Pradeep T.,Nanotechnology,4
+CB9257,Basic Electrical Engineering,Bakshi U. A.,Electrical Engineering,4
+CB2907,Electromagnetic Fields,Bakshi U. A.,Electromagnetics,4
+CB9258,Principles of Electrical Engineering,Bakshi U. A.,Electrical Engineering,4
+7812,Electomagnetic Theory,Basu Prabir K.,Electromagnetics,3
+7711,Fundamentals of Electromagnetic Theory,Dash Saroj K.,Electromagnetics,4
+369,Electrical Engineering Fundamentals,Deltoro Vincent,Electrical Engineering,5
+308,Electric Energy Systems Theory: An Introduction,Elgerd Olle. I.,Electrical Engineering,4
+CB9191,Electromagnetic Fields,Bakshi U A & Godse AV,Electromagnetics,4
+CB9189,Electromagnetic Fields,Mallikarjun Reddy Y,Electromagnetics,4
+CB9243,Field Theory,Gangadhar K Α,Electromagnetics,3
+CB2738,Engineering Electromagnetics,Hayt William H.,Electromagnetics,5
+CB3454,Hughes Electrical and Electronic Technology,Hiley John & et al .,Electrical Engineering,5
+4624,Electromagnetic Waves and Radiating System,Jordan Edward C.,Electromagnetics,4
+CB9183,Engineering Electromagnetics,Hayat W H & Buck J A,Electromagnetics,5
+CB9194,Electromagnetic Waves and Radiating Systems,Jordan Edward C & Balmain Keith G,Electromagnetics,4
+CB9284,Introduction to Electrical Engineering,Naidu M. S.,Electrical Engineering,4
+454,Fundamentals of Electromagnetics For Engineering,Nannapaneni Narayana Rao,Electromagnetics,4
+7619,An Integrated Course in Electronics & Communication Engineering,Rajput R. K.,Electronics,5
+334,Principles of Electromagnetics,Sadiku Mathew N. Ο.,Electromagnetics,5
+CB9260,Basic Concepts of Electrical Engineering,Subramanyam P. S.,Electrical Engineering,4
+CB3444,A Text Book of Electrical Technology,Theraja B. L.,Electrical Engineering,6
+510,Objective Electrical Electronics & Telecommunication Engineering,Theraja B. L.,Electrical Engineering,5
+CB9265,A Course In Electrical Engineering Materials,Seth S P,Electrical Engineering,3
+CB1766,Pulse and Digital Circuits,Anand Kumar A.,Digital Logic,4
+CB3396,Electrical Machines,Battacharya S. K.,Electrical Engineering,5
+CB3137,Electrical Machinery,Bimbhra P. S.,Electrical Engineering,5
+CB3463,A Text Book of Power System Engineering,Chakrabarti Abhijit,Electrical Engineering,4
+CB3439,Fundamentals of Electrical Drives,Dubey Gopal K.,Electrical Engineering,4
+CB3360,Electric Machinery,Fitzerald A. Ε.,Electrical Engineering,5
+CB3393,Utilization of Electric Energy,Openshaw Taylor E.,Electrical Engineering,3
+CB9249,A First Course in Electrical Drives,Pillai S K,Electrical Engineering,3
+7504,Photovoltaic Solar Energy: From Fundamentals to Applications,Reinder Angele,Renewable Energy,3
+CB3459,Utilization of Electric Power,Suryanarayana N. V.,Electrical Engineering,3
+470,Pulse and Digital Circuits,Venkat Rao K.,Digital Logic,4
+CB9041,Pulse Digital Circuits and Computer Fundamentals,Venkataraman R,Digital Logic,3
+CB3415,Electrical Power Systems,Wadhwa C. L.,Electrical Engineering,5
+284,Generalized Theory of Electrical Machines,Bimbhra P. S.,Electrical Engineering,4
+CB9248,Electrical Machines-II,Krishna Reddy K,Electrical Engineering,3
+504,Principles of Electrical Machines,Mehta V. K.,Electrical Engineering,4
+CB9269,Electrical Machines,Rajput R.K,Electrical Engineering,4
+CB9261,Modelling of Power System Components,Murthy PSR,Electrical Engineering,3
+7305,Handbook of Photovoltaic Scinece and Engineering,Luque Antonio,Renewable Energy,4
+CB3430,Power system protection and switchtch gear,Badri Ram,Electrical Engineering,4
+CB9279,Power Electronics,Bimbhra P.S,Power Electronics,5
+CB3343,A Course in Power System,Gupta J. B.,Electrical Engineering,5
+CB3380,Power System Analysis and Design,Gupta B. R.,Electrical Engineering,4
+CB3375,Modern Power System Analysis,Kothari D. P.,Electrical Engineering,4
+CB3353,Principles of Power System,Mehta V. K.,Electrical Engineering,5
+GT169,Power Electrical and Electronics Engineering,Rama Prabha,Power Electronics,3
+474,Power Electronics: Circuits Devices & Applications,Rashid Muhammad H.,Power Electronics,5
+2075,Power Electronics,Rashid Muhammad,Power Electronics,5
+CB9277,Power Electronics,Sen P.C,Power Electronics,4
+CB9278,Power Electronics,Sen P.C,Power Electronics,4
+248,Power Electronics and Motor Control,Shepherd W.,Power Electronics,3
+CB3361,Power Electronics,Singh M. D.,Power Electronics,4
+CB9271,Electrical Technology,Bhattacharya S K,Electrical Engineering,4
+CB3458,Circuit Theory: Analysis & Synthesis,Chakrabarti Abhijit,Circuit Theory,5
+CB3311,Power System Engineering,Kothari D. P.,Electrical Engineering,5
+CB9272,Electrical Technology,Naidu M.S & Kamakshaiah,Electrical Engineering,4
+CB3413,HVDC Power Transmission System: Technology and System Interactions,Padiyar K. R.,Electrical Engineering,3
+CB3092,Networks Lines and Fields,Ryder John D.,Telecommunications,4
+CB9247,HVDC Transmission Systems,Sivanagaraju S,Electrical Engineering,3
+CB9283,Switchgear and Protection,Sivanagaraju S,Electrical Engineering,4
+CB2999,Transmission Lines and Networks,Umesh Sinha,Telecommunications,4
+CB9251,High Voltage Engineering,Wadhwa C.L.,Electrical Engineering,4
+CB9276,Fundamentals of Electric Circuits,Alxender Charles K & Sadiku Mathew,Circuit Theory,5
+CB2112,Engineering Circuit Analysis,Hayt W. H.,Circuit Theory,5
+CB2127,Engineering Circuit Analysis,Hayt W. H.,Circuit Theory,5
+CB9221,Network Analysis,Van Valkenburg M. Ε.,Circuit Theory,5
+CB9267,Electric Circuit Analysis,Paranjothi S R,Circuit Theory,4
+CB3296,Network Analysis,Sudhakar A.,Circuit Theory,5
+CB9237,Network Theory and Filter Design,Aatre Vasudev K.,Circuit Theory,3
+CB9225,Network Analysis & Synthesis,Jagan N C & Lakshminarayana,Circuit Theory,4
+CB3326,Electric Circuits,Nahvi Mahmood,Circuit Theory,4
+CB9268,Electrical Circuits,Wadhwa C.L.,Circuit Theory,4
+8210,Fundamentals of Digital Logic With VHDL Design,Brown Stephen,Digital Logic,4
+CB9188,Schaum's Outline of Theory and Problems of Electromagnetics,Edminister Joseph A,Electromagnetics,4
+CB9193,Electromagnetic Waves and Transmission Lines,Giri Prasad,Electromagnetics,3
+CB9186,Electromagnetic Field Theory,Muthusubramanian R,Electromagnetics,4
+902,Engineering Electromagnetics,Nathan Ida,Electromagnetics,3
+CB9192,Electromagnetic Field Theory and Transmission Lines,Raju GS N,Electromagnetics,4
+CB9184,Elements of Electromagnetics,Sadiku Mathew NO,Electromagnetics,5
+CB8000,Digital Image Processing: A Practical Introduction Using Java,Efford Nick,Image Processing,3
+GT208,Digital Image Processing,Gonzalez Rafael,Image Processing,5
+4609,Digital Image Processing Using MATLAB,Gonzalez Rafael C.,Image Processing,5
+4662,Digital Image Processing,Gonzalez Rafael C.,Image Processing,6
+513,A Course In Electrical and Electronic Measurements and Instrumentation,Gupta J. B.,Instrumentation,5
+6742,Digtial Integrated Circuits: A design perspective,Rabaey Jain M,VLSI Design,5
+CB2766,Digital Design: Principles and Practice,Wakerly John F.,Digital Logic,5
+CB2756,Digital Design: Principles and Practice,Wakerly John F.,Digital Logic,5
+920,Silicon VLSI Technology: Fundametals Practice & Modeling,Plummer James D,VLSI Design,4
+CB9062,Digital Logic Design,Pradeep Kumar Goud &,Digital Logic,3
+CB2389,Basic VLSI Design,Pucknell Douglas A.,VLSI Design,4
+7610,Basic VLSI Design,Puknel Douglas A.,VLSI Design,4
+CB9093,Digital Integrated Circuits: A Design Perspective,Rabaey Jan M,VLSI Design,5
+445,Digital Integrated Circuits: A Design Perspective,Rabaey Jan M.,VLSI Design,5
+CB9088,Fundamentals of Logic Design,Roth Charles H,Digital Logic,4
+CB9089,Fundamentals of Logic Design,Roth Charles H,Digital Logic,5
+CB9042,VLSI Design and EDA Tools,Sarkar Angsuman,VLSI Design,3
+CB9105,Practical Application of Digital Integrated Circuits,Sharma M C,Digital Logic,3
+CB9044,VLSI Technology,Sze. S. M.,VLSI Design,4
+239,First Course In Digital Systems Design: An Integrated Approach,Uyemura John P..,Digital Logic,3
+8289,Introduction to VLSI Circuits and Systems,Uyemura John P.,VLSI Design,4
+CB9063,Digital Design: Principles and Practices,Wakerly John F,Digital Logic,5
+2084,FPGA-Based System Design,Wolf Wayne,Digital Logic,4
+2251,Modern VLSI Design: IP-Based Design,Wolf Wayne,VLSI Design,4
+CB2979,Modern VLSI Design: IP Based Design,Wolf Wayne,VLSI Design,4
+2079,Modern VLSI Design,Wolf Wayne,VLSI Design,4
+6923,Digital Principles and Logic Design,Saha A,Digital Logic,3
+CB9263,Electric Drives,De N.K,Electrical Engineering,3
+CB39,Formal Languages and Automata Theory,Sunitha Kalyani,Theory of Computation,3
+CB7545,Formal Languages and Automata Theory,Sunitha K. V. N.,Theory of Computation,4
+CB7067,Control Systems,Nagoor Kani,Control Systems,4
+GT2,Control Systems,Anand Kumar,Control Systems,4
+172,Control Systems Engineering,Bhattacharya S. K.,Control Systems,4
+CB9196,Questions and Answers Electronics,Brown Clement,Electronics,3
+CB9195,The Powerhouse of The Atom,Gladkov K,Physics,2
+CB9216,Modern Control System Theory,Gopal M,Control Systems,4
+CB9217,Modern Control Engineering,Ogata Katsuhiko,Control Systems,5
+CB9219,Automatic Control Systems,Kuo Benjamin C,Control Systems,5
+CB2696,Control Systems,Nagoor Kani A.,Control Systems,4
+CB9198,Control Systems Engineering,Nagrath I. J.,Control Systems,5
+CB9200,Control Systems Engineering,Nagrath I. J.,Control Systems,5
+CB9213,Control Systems Engineering,Nagrath I. J.,Control Systems,5
+CB9214,Control Systems Engineering,Nagrath I. J.,Control Systems,5
+CB3460,Modern Control Engineering,Ogata Katsuhiko,Control Systems,5
+CB9197,Control Systems Engineering,Palani S,Control Systems,3
+8910,Feedvack Control of Dynamic Sysms,Frankline Fene F.,Control Systems,4
+CB2971,Automatic Control Systems,Kuo Benjamin C.,Control Systems,5
+904,Programming and Customizing The AVR Microcontroller,Garde Dhananjay V.,Microcontrollers,3
+187,Programmable Logic Controllers: Programming Methods and Applications,Hackworth John R.,Automation & PLC,3
+906,Programming and Customizing The PIC Microcontroller,Predko Myke,Microcontrollers,3
+1434,Programmable Logic Controllers,Rehg James A.,Automation & PLC,3
+218,Programmable Logic Controllers: Principles and Applications,Webb Johan W,Automation & PLC,4
+1450,Programmable Logic Controllers,Webb John W.,Automation & PLC,4
+4629,Introduction to Robotics: Mechanics and Control,Craig John J.,Robotics,5
+7749,Robtics Technology and Flexible Automation,Deb S. R.,Robotics,3
+4599,Robotics and Control,Miital R. K.,Robotics,4
+CB7375,The SAP R/13 Handbook,Hernandez Jose Anton,Enterprise Systems,3
+CB7784,Effective E- Mail Communication,Taylor Shirfley,Business Communication,3
+CB7566,CRCP Crystal Reports Certified Professional,Harper Annette,Certification Prep,2
+CB7719,Microsoft Word 2000 Microsoft Office,CMTES,Office Software,3
+CB7720,Microsoft Excel,CMTES,Office Software,3
+CB7688,The Complete Reference Word 2000,Weverka Peter,Office Software,3
+CB7783,Taming The Information Tsunami,Bruck Bill,Information Management,2
+CB8009,Information Systems Today,Jessup Leonard,Information Systems,3
+CB8016,Decision Support Systems in the 21st Century,Marakas George M,Information Systems,3
+CB7651,Microsoft Office Project Server 2003,Quantum P. М.,Project Management,2
+CB7652,Microsoft Office Project Server 2004,Quantum P. M.,Project Management,2
+523,Big Data Analytics: Turning Big Data Into Big Money,Ohlhorst Frank J.,Big Data,4
+CB7767,Web Site Analysis and Reporting,Nobles Robin,Web Analytics,2
+CB7935,Increase Your Web Traffic In a Weekend,Stanek William R,Web Analytics,3
+CB1388,Web Commerce Technology Handbook,Minoli Daniel,E-Commerce,3
+2255,Protocols And Architectures for Wireless Sensor Networks,Karl Holger,Wireless Sensor Networks,4
+7042,Protocols and Architectures for Wirelss Sensor Networks,Karl Holger,Wireless Sensor Networks,4
+2094,Sensors and Transducers,Patranabis D.,Sensors & Transducers,4
+CB7689,Implementing Intrusion Detection Systems,Crothers Tim,Cybersecurity,3
+CB7835,LATEX: A Document Preparation System,Lamport Leslie,Document Processing,4
+CB294,Latex: A Document Preparation Systems,Lamport Leslie,Document Processing,4
+CB7712,Page Maker,Vishnu Priya Singh,Document Processing,2
+CB9142,Random Processes For Image and Signal Processing,Dougherty Edward R,Signal Processing,3
+459,Linear Integrated Circuits,Visvesvara Rao B.,Electronics,4
+CB9123,Digital Integrated Electronics,Taub Herbert,Electronics,4
+CB9084,Digital Circuits and Logic Design,Lee Samuel C,Digital Logic,4
+CB9153,Digital Computer Electronics,Malvino Albert Paul,Electronics,4
+CB9253,Basic Electrical Elecetronics and Computer Engineering,Muthusubramanian R,Electrical Engineering,4
+CB2725,Digital Signal Processing,Avtar Singh,Signal Processing,4
+CB8933,Communication Systems,Carlson Bruce A.,Telecommunications,4
+CB8943,Digital Communications,Chitode J. S.,Telecommunications,4
+CB7016,Telecommunication Switching Traffic & Networking,Flood J. E.,Telecommunications,3
+395,Fundamentals of Nano Electronics,Hanson George W.,Nanotechnology,3
+CB2784,Analog Communication: Simplified Approach,Hari Bhat,Telecommunications,3
+CB8934,Communication Systems,Haykin Simon,Telecommunications,5
+2265,Introduction to Analog and Digital Communication,Haykin Simon,Telecommunications,4
+192,Modern Wireless Communication,Haykin Simon,Wireless Communications,4
+8897,Real-Time Digital Signal Processing: Fundamentals Implementations and Applications,Kuo Sen M.,Signal Processing,3
+CB2881,Communication Systems,Lathi B. P.,Telecommunications,4
+2824,Modern Digital and Analog Communication Systems,Lathi B. P.,Telecommunications,5
+CB2182,Introduction to Signals and Systems,Linder Douglas K.,Signals & Systems,3
+2151,Introduction to Analog Digital Communications,Simon Haykin,Telecommunications,4
+4611,Discrete-Time Signal Processing,Oppenheim Alan V.,Signal Processing,5
+4641,Digital Signal Processing: A Computer Based Approach,Mitra Sanjit K.,Signal Processing,5
+8290,Electronics: Analog and Digital,Nagrath J. J.,Electronics,4
+CB2691,Digital Signal Processing,Oppenheim Alan V.,Signal Processing,5
+9575,Digital Processing of Speech Signals,Rabiner Lawrence,Speech Processing,3
+CB2059,Wireless Technology: Fundamentals and Applications,Pradeep Reddy G.,Wireless Communications,3
+480,Communication Systems Engineering,Proakis John G.,Telecommunications,4
+9442,Digital Processing of Speech Signals,Rabiner Lawrence R.S,Speech Processing,3
+9570,Discrete-Time Signal Processing,Oppenheim Alan V.,Signal Processing,5
+CB7076,Analog Communication,Ramakrishna Rao,Telecommunications,3
+1374,Wireless Communications: Principles And Practice,Rappaport Theodore,Wireless Communications,5
+9692,Low-Power CMOS VLSI Circuit Design,Roy Kaushik,VLSI Design,3
+6880,Digital Principles and Logic Design Techniques,Saha Arijit,Digital Logic,3
+7794,Digital Signal Processing,Salivahana S.,Signal Processing,5
+7801,Microsystem Design,Senturia Stephen D.,Electronics,3
+CB2857,Digital and Analog Communication Systems,Sam Shanmugam K.,Telecommunications,4
+CB9024,Wireless and Cellular Communications,Sanjay Sharma,Wireless Communications,4
+CB838,Mobile Communications,Schiller Jochen H.,Wireless Communications,4
+7091,Communication Systems: Analog and Digital,Singh R. P.,Telecommunications,4
+CB9022,Ad Hoc Wireless Networks,Siva Ram Murthy C.,Wireless Communications,4
+CB8942,Digital Communication,Srinivasan,Telecommunications,4
+CB2078,Wireless Communication and Networks,Stallings William,Wireless Communications,4
+CB2976,Handbook of Wireless Networks and Mobile Computing,Stojmenovic Ivan,Wireless Communications,3
+CB8914,Principles of Communication Systems,Taub Herbert,Telecommunications,4
+CB2223,Telecommunication Switching Systems and Networks,Viswanathan Thiagaraja,Telecommunications,4
+CB9040,Wireless Communications & Networks,Stallings William,Wireless Communications,4
+3066,Digital Signal Processing,Anand Kumar A.,Signal Processing,5
+CB2246,Telecommunication Switching Systems and Networks,Viswanathan Thiagaraja,Telecommunications,4
+GT10,Digital Signal Processing,Anand Kumar,Signal Processing,4
+2882,Signals and Systems,Anand Kumar A.,Signals & Systems,5
+CB2828,Signals and Systems,Chitode J. S.,Signals & Systems,4
+1321,Signals And Systems,Openheim Alan,Signals & Systems,5
+1315,Signals And Systems,Sonarajit Ghosh,Signals & Systems,4
+CB9000,Pulse and Digital Circuits,Bakshi U. A.,Digital Logic,4
+CB8954,Signals and Systems,Batmavady Girivasan,Signals & Systems,3
+GT199,Signals and Systems,Ghosh Smarjit,Signals & Systems,4
+CB8966,Signals and Systems,Haykin Simon,Signals & Systems,5
+CB9144,Digital Signal Processing,Husain Farooq,Signal Processing,4
+2281,Digital Signal Processing System Design: Lab View Based Hybrid Programming,Kehtarnavaz Nasser,Signal Processing,3
+GT182,Signals and Systems,Patil S. N,Signals & Systems,3
+CB8978,Signal Processing and Linear Systems,Lathi B. P.,Signal Processing,4
+CB9009,Pulse Digital and Switching Waveforms,Millman Jacob,Digital Logic,4
+CB8965,Signals and Systems,Nagarath I. J.,Signals & Systems,4
+1408,Signals & Systems,Ghosh Smarajit,Signals & Systems,4
+CB2720,Digital Signal Processing,Ramesh Babu P.,Signal Processing,5
+8917,Digital Signal Processing: Fundamentals and Applications,Tan Li,Signal Processing,4
+CB8977,Signals and Systems,Oppenheim Alan V.,Signals & Systems,5
+CB8953,Signals and Systems,Poornachandra S,Signals & Systems,3
+GT167,Signals and Systems,Ramesh Babu P,Signals & Systems,4
+8805,Signals and Systems,Rawat Tarun Kmar,Signals & Systems,3
+CB8952,Signals & Systems,Sayed Amjad Ali,Signals & Systems,4
+CB9141,Continuous and Discrete Signals and Systems,Soliman Samir S & Sril,Signals & Systems,4
+CB9001,Pulse and Digital Circuits,Yoganarsimha B. N.,Digital Logic,3
+1383,Continuous & Discrete Signals & system,Soliman Samir,Signals & Systems,4
+CB2996,Antenna Theory: Analysis and Design,Balanis Constantine A.,Antennas & Propagation,5
+CB2583,Antennas and Wave Propagation,Kraus John D.,Antennas & Propagation,5
+CB2596,Antennas and Wave Propagation,Prasad K. D.,Antennas & Propagation,4
+451,Antennas & Wave Propagation,Raju G. S. N.,Antennas & Propagation,4
+CB2847,Satellite Communications,Pratt Timothy & et al.,Satellite Communications,4
+CB9045,Textbook on Optical Fiber Communication and Its Applications,Gupta S C,Telecommunications,3
+CB9046,Optical Communications,Radha Krishna G,Telecommunications,3
+1359,Fiber Optic Communications,Palais Joseph,Telecommunications,4
+CB9031,Wireless Communications,Ciampa Mark,Wireless Communications,3
+8299,RF Circuit Design: Theory and Applications,Ludwing Reinhold,RF Engineering,4
+GT198,Bluetooth Technology and Its Applications with Java and J2Me,Prabhu C.s.,Wireless Communications,3
+CB2095,Wireless Digital Communications,Feher Kamilo,Wireless Communications,4
+CB9060,Cellular & Mobile Communications,Jeyasri Arokiamary V,Wireless Communications,3
+CB2968,Mobile Cellular Telecommunications: Analog and Digital Systems,Lee William C. Y.,Wireless Communications,4
+6748,Signal Processing for 5G: Algorithms and Implementations,Luo Fa-Long,Signal Processing,3
+CB9059,Radar Systems,Radha Krishna G,Radar Engineering,3
+CB7081,Antennas and Wave Propagation,Kraus John,Antennas & Propagation,4
+CB9050,Antennas and Wave Propagation,Subbaiah PV & Rao R,Antennas & Propagation,3
+CB2013,Introduction to Radar Systems,Skolnik Merrill I.,Radar Engineering,4
+CB1436,Bigelow's PC Troubleshooting and Repair,Bigelow Stephen J.,Hardware,4
+7104,Digital Circuit Testing and testablity,Tala Parag K.,Digital Logic,3
+6920,Fundamentals of Digital Circuits,Anand Kumar,Digital Logic,5
+6916,Digtal Systems: Principles and Applications,Tocci ronald J,Digital Logic,5
+1453,Designing Embedded Hardware,Catsoulis John,Embedded Systems,4
+272,MSP 430 Microcontroller Basics,Davies John H.,Microcontrollers,3
+CB1290,Upgrading and Repairing PCs,Mueller Scott,Hardware,5
+CB692,The Complete Computer Upgrade and Repair Book,Schmidt Cheryl A.,Hardware,4
+929,Writing Testbenches Using Verilog System,Bergeron Janick,Hardware Description Languages,3
+CB2669,A VHDL Primer,Bhasker Jayaram,Hardware Description Languages,4
+231,A Verilog HDL Primer,Bhasker J,Hardware Description Languages,4
+3630,Fundamentals of Digital Logic with Verilog Design,Brown Stephen,Hardware Description Languages,5
+319,Verilog Digital System Design,Navabi Zainalabedin,Hardware Description Languages,4
+234,Digital Systems Design Using VHDL,Roth Charles H,Hardware Description Languages,4
+1291,The Complete Verilog Book,Sagded Vivek,Hardware Description Languages,3
+940,The Verilog PLI Handbook,Stuart Sutherland,Hardware Description Languages,3
+328,Circuits & Networks: Analysis And Synthesis,Sudhakar A.,Circuit Theory,5
+2374,System Verilog for Design,Sutherland Stuart,Hardware Description Languages,4
+7308,CMOS Mixed-Signal Circuit Design,Bater Jacob R.,VLSI Design,3
+8326,Verilog HDL Synthesis: Apractical primer,Bhasker J.,Hardware Description Languages,4
+CB9078,Logic Design Theory,Biswas Nripendra N,Digital Logic,3
+934,Digital Design and Verilog HDL Fundamentals,Cavanagh Joseph,Hardware Description Languages,4
+1300,Advanced Digital Design,Ciletti Michael D.,Digital Logic,4
+CB9106,Digital IC Applications,Godse A P & Godse D,Digital Logic,3
+939,Digital System Design Using Programmable Logic Devices,Lala Parag K.,Digital Logic,3
+432,Digital Logic and Computer Design,Mano Morris M.,Digital Logic,5
+7332,The Design of CMOS Radio - Frequency Intergrated Circuits,Lee Thomas H.,VLSI Design,4
+CB9082,Digital Logic and Computer Design,Mano Morris M,Digital Logic,5
+CB9065,Digital Design,Mano Morris M & Cilet,Digital Logic,5
+CB7610,Logic And Computer Design,Mano Morris,Digital Logic,4
+2242,Genetic Algorithms For VLSI Design Layout and Test Automation,Mazumder Pinaki,VLSI Design,3
+CB9043,VLSI digital Signal Processing Systems,Parhi Keshab K,VLSI Design,4
